@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>English Tadoku — 英語多読サイト</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container">
+      <div class="logo">
+        <span class="logo-icon">📖</span>
+        <span class="logo-text">English Tadoku</span>
+      </div>
+      <nav class="nav">
+        <a href="#levels">レベルを選ぶ</a>
+        <a href="#about">使い方</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <h1>英語多読で<br>読む力を伸ばそう</h1>
+      <p class="hero-sub">自分のレベルに合った英文をたくさん読むことで、<br>自然に英語力がアップします。</p>
+      <a href="#levels" class="btn-primary">レベルを選んで読み始める →</a>
+    </div>
+  </section>
+
+  <!-- How to use -->
+  <section class="about" id="about">
+    <div class="container">
+      <h2 class="section-title">多読の3つのルール</h2>
+      <div class="rules-grid">
+        <div class="rule-card">
+          <div class="rule-num">1</div>
+          <h3>辞書を引かない</h3>
+          <p>わからない単語があっても止まらず、流れで意味を推測しながら読み進めましょう。</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num">2</div>
+          <h3>つまらなければやめる</h3>
+          <p>楽しくない読み物は途中でやめてOK。自分が面白いと思えるテキストを選びましょう。</p>
+        </div>
+        <div class="rule-card">
+          <div class="rule-num">3</div>
+          <h3>やさしいものから読む</h3>
+          <p>簡単すぎると感じるくらいのレベルから始めるのがコツ。スピードと自信をつけていきましょう。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Level Selector -->
+  <section class="levels" id="levels">
+    <div class="container">
+      <h2 class="section-title">レベルを選ぼう</h2>
+      <p class="section-sub">自分に合ったレベルのテキストを選んでください。わからない単語が全体の5%以下が目安です。</p>
+
+      <div class="level-tabs">
+        <button class="tab-btn active" data-level="1">Level 1</button>
+        <button class="tab-btn" data-level="2">Level 2</button>
+        <button class="tab-btn" data-level="3">Level 3</button>
+        <button class="tab-btn" data-level="4">Level 4</button>
+        <button class="tab-btn" data-level="5">Level 5</button>
+      </div>
+
+      <div class="level-info" id="level-info"></div>
+
+      <div class="books-grid" id="books-grid"></div>
+    </div>
+  </section>
+
+  <!-- Reader Modal -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="reader-modal">
+      <button class="modal-close" id="modal-close">✕</button>
+      <div class="modal-header">
+        <span class="modal-level-badge" id="modal-level-badge"></span>
+        <h2 id="modal-title"></h2>
+        <p id="modal-meta"></p>
+      </div>
+      <div class="modal-body">
+        <div class="reader-controls">
+          <label>文字サイズ:
+            <select id="font-size-select">
+              <option value="16">標準</option>
+              <option value="18">大きめ</option>
+              <option value="20">大きい</option>
+            </select>
+          </label>
+          <span id="word-count-display"></span>
+        </div>
+        <article class="reader-text" id="reader-text"></article>
+        <div class="rating-section">
+          <p>この本はどうでしたか？</p>
+          <div class="stars" id="stars">
+            <span data-val="1">★</span>
+            <span data-val="2">★</span>
+            <span data-val="3">★</span>
+            <span data-val="4">★</span>
+            <span data-val="5">★</span>
+          </div>
+          <p class="rating-msg" id="rating-msg"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2025 English Tadoku — 英語多読サイト</p>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="data-level1.js"></script>
+  <script src="data-level2.js"></script>
+  <script src="data-level3.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
