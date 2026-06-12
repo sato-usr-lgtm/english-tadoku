@@ -496,5 +496,431 @@ I read it eleven times. I keep it in my desk drawer, in its envelope, beside my 
 That autumn, my mother and I drove to the old house and picked persimmons from her greedy tree. They were perfectly ripe.
 
 I ate one for her. It was sweet. The rest, as promised, is sorting itself out.`,
+  },
+  {
+    id: 197, level: 3,
+    title: "The Science of Goosebumps",
+    emoji: "🥶",
+    genre: "科学",
+    words: 310,
+    desc: "鳥肌が立つ理由を進化の視点から解説する科学読み物。",
+    text: `You hear a beautiful chorus, step into cold air, or watch a frightening scene in a film — and suddenly your skin rises into tiny bumps, each one crowned with a standing hair. Goosebumps are among the most familiar and least useful reactions the human body produces. Their story is a fossil written in skin.
+
+The mechanism itself is simple. At the base of each body hair sits a tiny muscle called the arrector pili. When the sympathetic nervous system — the body's emergency alert network — fires, these muscles contract, pulling each hair upright and puckering the surrounding skin into the famous bump.
+
+The question is why. For our furry ancestors, the reaction made excellent sense, in two ways. In cold weather, raised fur traps a thicker layer of air against the skin, improving insulation — birds fluff their feathers on the same principle, and a cat in winter visibly inflates. In danger, raised fur makes an animal appear larger and more formidable; a frightened cat's arched, bristling silhouette can nearly double its apparent size.
+
+Humans, however, lost their thick fur somewhere in evolution. The muscles remained, faithfully contracting on schedule, but with almost nothing left to raise. Goosebumps in humans are what biologists call a vestigial response — equipment that outlived its function, like the appendix or wisdom teeth. Your shiver-bumps in a cold wind are your body attempting to fluff up a coat you no longer own.
+
+The most intriguing modern mystery is why music triggers them. Researchers note that emotionally powerful music activates the same ancient alarm and reward circuits, and people who frequently experience musical chills show measurably stronger connections between auditory and emotional brain regions.
+
+When a song raises the hair on your arms, an alarm system older than your species is being played — gently, harmlessly — like an instrument.`,
+  },
+  {
+    id: 198, level: 3,
+    title: "The Children Who Taught the Teachers",
+    emoji: "🧒",
+    genre: "教育・物語",
+    words: 320,
+    desc: "生徒が先生に教える「逆授業」の実践記。学びの双方向性。",
+    text: `Last term, our school tried an experiment that the teachers called "Reverse Day" — one afternoon when students taught and teachers learned. Each class prepared lessons on subjects the adults knew nothing about. The results surprised everyone, including the people who planned it.
+
+The student lessons were genuinely varied. One group taught the mathematics teacher how to edit short videos, complete with homework. Another taught three teachers the basics of a popular online game, including its economy, which the social studies teacher later described as "more complex than some real markets." A girl in my class, raised bilingual, taught a mini-lesson in Portuguese greetings. I helped teach smartphone photography: composition, lighting, and the mysterious settings nobody ever opens.
+
+Watching teachers learn turned out to be an education in itself. Our English teacher, normally calm and all-knowing, became visibly nervous when her video edit failed to save. The PE teacher asked the same question three times and apologized for it. They hesitated, made errors, forgot steps we had just explained — exactly the things we do every day, in their classrooms.
+
+"Being a beginner is uncomfortable," the math teacher admitted afterward. "I had forgotten. It has been thirty years since I was bad at something in public."
+
+That sentence stayed with the students, but the day changed us too. Teaching is harder than it looks from a desk. Explaining something you understand to someone who does not — finding the right order, the right words, the patience for the third repetition of the same question — exhausted us in ninety minutes. Teachers do it for six hours a day, two hundred days a year.
+
+The school plans to repeat Reverse Day every year. The official reason involves "mutual understanding and communication skills."
+
+The real reason might be simpler. On that afternoon, everyone in the building remembered the same two facts: learning takes courage, and teaching takes more than knowledge.
+
+Both are easy to forget — from either side of the desk.`,
+  },
+  {
+    id: 199, level: 3,
+    title: "Why the Ocean Is Salty",
+    emoji: "🧂",
+    genre: "科学・地理",
+    words: 315,
+    desc: "海の塩の起源を解説する地球科学読み物。数十億年の物質循環。",
+    text: `Taste a drop of seawater, and you are tasting mountains — dissolved, transported, and accumulated over four billion years. The ocean's saltiness is one of those everyday facts so familiar that we forget it requires an explanation. The explanation turns out to be a planetary story.
+
+It begins with rain. Rainwater is not pure water; as drops fall, they absorb carbon dioxide from the air, becoming very mildly acidic. When this weak acid washes over rocks, it slowly dissolves them, freeing the minerals locked inside — including sodium and chloride, the two ingredients of common salt. Rivers collect these invisible cargoes and deliver them, endlessly, to the sea.
+
+Here is the crucial asymmetry: water leaves the ocean, but salt does not. The sun evaporates enormous quantities of seawater every day, lifting pure water vapor into clouds while leaving every dissolved mineral behind. The vapor becomes rain, the rain dissolves more rock, the rivers deliver more salt. Repeat for billions of years, and the ocean becomes a vast accumulation tank — currently holding enough salt, by one famous estimate, to bury all the land on Earth under a layer roughly 150 meters thick.
+
+A reasonable question follows: why isn't the ocean getting saltier forever? Scientists long assumed it was, but the modern view is more elegant: the ocean has reached an approximate balance. Salt leaves the water through several exits — it is buried in seafloor sediments, locked into clay minerals, trapped in isolated basins that dry into salt beds, and consumed in chemical reactions at hot underwater vents. Input and output roughly match, and ocean salinity has remained broadly stable for many millions of years.
+
+Rivers, the original source of the salt, taste fresh only because their salt is dilute and constantly moving — they are conveyor belts, not warehouses.
+
+The warehouse is the sea: every wave, a four-billion-year inventory of dissolved continents.`,
+  },
+  {
+    id: 200, level: 3,
+    title: "The Borrowed Textbook",
+    emoji: "📘",
+    genre: "物語",
+    words: 320,
+    desc: "教科書に残された前の持ち主の書き込みをめぐる物語。",
+    text: `Our school reuses some textbooks to save money. The art history book I received in April had a previous owner: the name "M. Hoshino" was written neatly inside the cover, with a graduation year three years before mine.
+
+M. Hoshino, whoever they were, had been a magnificent margin-writer.
+
+Beside a painting of a stormy sea: "Look at the tiny boat. The storm is the main character, but the boat is the story." Next to a famous self-portrait: "He painted himself 36 times. Imagine looking at your own face that honestly, that often." On a page about ancient sculpture: "Three thousand years ago, and the expression is still readable. Faces are a language that doesn't change."
+
+At first, I read the notes for amusement. By summer, I was reading the textbook differently because of them. M. Hoshino had a way of asking questions that the textbook itself never asked. "Why did the painter put the window THERE?" And suddenly I would spend five minutes on a painting I would have flipped past, actually looking, the way the margins had taught me.
+
+My art teacher noticed my essays improving. "You've started seeing instead of looking," she said. I did not mention that I had a tutor living in my margins.
+
+In October, curiosity finally won. The graduation year was recent; the art teacher had been here longer than that. I asked if she remembered a student named M. Hoshino.
+
+She smiled slowly. "Mika Hoshino. She's at art university in Kyoto now. She used to stay after class arguing with paintings." Arguing with paintings — that matched my margins perfectly.
+
+The textbook returns to school in March for the next student. I have decided to leave my own additions — a few notes, carefully written, beside the pages Mika's notes taught me to love.
+
+On the inside cover, under her name, I added mine.
+
+A relay of strangers, passing forward the way of seeing.`,
+  },
+  {
+    id: 201, level: 3,
+    title: "Phantom Vibrations",
+    emoji: "📳",
+    genre: "心理・テクノロジー",
+    words: 310,
+    desc: "ポケットの幻の振動を感じる現象を解説する心理学読み物。",
+    text: `Your pocket buzzes. You reach for your phone — no notification, no call. Nothing. The vibration you clearly felt never happened. This experience, known as phantom vibration syndrome, is reported by roughly seventy to ninety percent of phone users in surveys, making it one of the most common hallucinations in human history. That word — hallucination — sounds alarming, but the explanation says less about madness and more about how perception actually works.
+
+The brain, neuroscientists emphasize, is not a passive receiver of sensations. It is a prediction machine. At every moment, it generates expectations about what signals are coming and then checks reality against the forecast. This design is efficient — anticipating is faster than reacting — but it has a cost: when the brain strongly expects a signal, it sometimes perceives one that is not there. Perception is a controlled guess, and guesses can be wrong.
+
+The phone, for many of us, has become the most anticipated object in existence. It delivers social connection, news, entertainment, and tiny jolts of reward at unpredictable intervals — and unpredictable rewards, as casino designers know, produce the most persistent checking behavior. The brain learns that pocket sensations are frequently meaningful, so it lowers its threshold: a rub of fabric, a muscle twitch, a shift of weight gets eagerly interpreted as the expected buzz. The phantom vibration is your prediction machine jumping the gun.
+
+Studies of medical workers carrying pagers found the same effect decades ago, and research suggests the phenomenon intensifies with attachment: people who feel more dependent on their devices report more phantom signals.
+
+The syndrome is harmless. But many researchers treat it as a quiet diagnostic — a measurable trace of how deeply the device has been woven into our nervous systems.
+
+Your phone does not need to ring to interrupt you anymore.
+
+The expectation alone now does the buzzing.`,
+  },
+  {
+    id: 202, level: 3,
+    title: "The Lighthouse Keeper's Last Shift",
+    emoji: "🗼",
+    genre: "物語・歴史",
+    words: 320,
+    desc: "自動化で職を終える灯台守の最後の夜を描く物語。",
+    text: `For thirty-one years, Mr. Kishimoto climbed the same ninety-eight steps every evening to light the lamp. Now, on his final night, he climbed them slowly, letting his hand rest on the cold iron rail at each turn.
+
+The lighthouse was being automated. From tomorrow, sensors would measure the darkness, computers would manage the lamp, and a maintenance team would visit four times a year. No keeper required. The letter from the maritime authority had been polite and full of words like "efficiency" and "modernization." It thanked him for his service in two sentences.
+
+At the top, he performed the routine his hands knew better than his mind did: checking the lens, the backup systems, the logbook. The great lens — a first-order Fresnel, older than his grandfather — gathered the lamp's light and threw it thirty kilometers across the black water. Three seconds on, two off. Every ship on this coast knew the rhythm. For thirty-one years, it had been his rhythm.
+
+He opened the logbook and read random pages while the lamp turned above him. Typhoon nights when he stayed at his post while the tower swayed. The tanker he had guided past the rocks by radio during the great fog. Quiet entries, too — thousands of them: "Clear night. Calm sea. All well." He had once calculated that those three sentences, repeated, made up most of his life's work. It had taken him years to understand that this was the achievement, not the boredom: all those nights when nothing happened, because the light was on.
+
+The automation engineer had assured him the computer would be more reliable. Probably true, he thought. Machines do not sleep, do not age, do not grieve.
+
+But machines also do not watch.
+
+At dawn, he wrote the final entry: "Clear night. Calm sea. All well. End of watch."
+
+Then he descended the ninety-eight steps, and the lighthouse went on shining without him — faithful, precise, and alone.`,
+  },
+  {
+    id: 203, level: 3,
+    title: "Why We Yawn (and Why It's Contagious)",
+    emoji: "🥱",
+    genre: "科学",
+    words: 310,
+    desc: "あくびの謎と伝染の仕組みを解説する科学読み物。",
+    text: `You are reading the word "yawn." There is a measurable chance you will yawn within the next few minutes — and if someone near you does it first, the odds rise sharply. Yawning is one of biology's oldest behaviors and, despite centuries of study, still one of its open puzzles.
+
+Start with what yawning is not. The classic textbook explanation — that yawns deliver extra oxygen to a tired brain — has largely failed experimental testing. Breathing pure oxygen does not reduce yawning, and exercise that raises oxygen demand does not increase it.
+
+The leading modern hypothesis is stranger: brain cooling. The brain operates within narrow temperature limits and works less efficiently when warm. A yawn's deep jaw stretch and great inhalation increase blood flow and pull a wave of cooler air through the nasal passages — a biological ventilation system. Supporting evidence is charming: people yawn more in warm rooms than cold ones, and pressing a cold pack to the forehead measurably reduces yawning.
+
+The deeper mystery is contagion. Seeing, hearing, or merely thinking about yawning triggers it — a reflex that emerges in humans around age four and is shared by chimpanzees, wolves, and dogs, who can catch yawns from their owners. Researchers connect contagious yawning to the brain's empathy circuitry: the regions that activate when we mirror others' feelings also light up during caught yawns, and some studies find that yawns spread more easily between family members and close friends than between strangers.
+
+This suggests an evolutionary purpose beyond cooling: synchronization. In a sleeping-and-waking group, a wave of yawns may have coordinated alertness — one animal's drowsiness rippling through the pack as a shared signal to rest or rouse together.
+
+When a yawn leaps from your friend's face to yours, an ancient bonding protocol may be running.
+
+Did you yawn yet? Be honest.`,
+  },
+  {
+    id: 204, level: 3,
+    title: "The Two Hundred Year Old Company",
+    emoji: "🏮",
+    genre: "経済・文化",
+    words: 315,
+    desc: "日本の長寿企業の秘密を探る読み物。継続の哲学。",
+    text: `Japan holds a strange world record. Of all the companies on Earth that have survived more than two centuries, more than half are Japanese. The country hosts tens of thousands of businesses over a hundred years old, hundreds over five hundred, and a handful — temple builders, inn keepers, sake brewers — that have operated for over a millennium. The world's oldest hotel has welcomed guests beside the same hot spring for some 1,300 years, run by the same family for over fifty generations.
+
+What explains this extraordinary endurance? Researchers who study these companies — called "shinise," or long-established businesses — find recurring principles rather than secrets.
+
+The first is a distinctive view of ownership. Many shinise leaders describe themselves not as owners but as custodians: the business was received from ancestors and is held in trust for descendants. Decisions are weighed in decades. Quick profit that endangers the firm's survival or reputation is, by this logic, a kind of theft from grandchildren.
+
+The second is a focus on continuity over growth. Most shinise are deliberately small. They resist the expansion that modern business culture treats as mandatory, having observed — across centuries of booms, wars, and disasters — that bigness is fragility. The bamboo strategy, some call it: bend, stay rooted, survive the storm that breaks the proud oak.
+
+The third is paradoxical: survival requires change. The oldest companies are not museums. A 400-year-old confectionery adjusts recipes each generation; a centuries-old textile firm now weaves carbon fiber. The shinise formula separates the unchangeable core — values, craft standards, the family name's meaning — from everything else, which may be reinvented as eras demand.
+
+In an economy obsessed with disruption and quarterly results, these quiet survivors pose an uncomfortable question: what, exactly, is a company for?
+
+Their answer has outlived every rival who answered differently.`,
+  },
+  {
+    id: 205, level: 3,
+    title: "The Migration of the Monarchs",
+    emoji: "🦋",
+    genre: "科学・生物",
+    words: 315,
+    desc: "オオカバマダラの驚異の渡りを描く生物学読み物。",
+    text: `Every autumn, millions of monarch butterflies leave Canada and the northern United States and fly up to four thousand kilometers to a few specific mountain forests in central Mexico — forests they have never seen, to which no living monarch has ever been. The navigators of this journey weigh half a gram. Their brains are the size of a pinhead. And their migration involves a mystery that still humbles biologists: it takes multiple generations to complete a single round trip.
+
+Here is the astonishing arithmetic. The butterflies that fly south in autumn are a special "super generation" that lives up to eight months — many times longer than normal. They winter in Mexico, clustering by the millions on fir trees, then fly partway north in spring, lay eggs, and die. Their children continue north and die. Their grandchildren continue further. It is typically the great-grandchildren — insects three or four generations removed from any butterfly that made the journey — that turn south in autumn and navigate back to the same Mexican mountains, sometimes to the very same trees their ancestors clustered on.
+
+No individual learns the route. No parent teaches it. The entire four-thousand-kilometer map, with its destination coordinates, is somehow encoded in the monarch's genes, expressed only in the generation that needs it. Their navigation tools are equally remarkable: a sun compass in the brain, corrected hour by hour by an internal clock located, improbably, in the antennae — and a backup magnetic sense for cloudy days.
+
+The migration is now endangered. Logging threatens the Mexican wintering forests, while herbicides across North America have destroyed vast quantities of milkweed, the only plant monarch caterpillars can eat. Gardeners planting milkweed along the route have become a quiet conservation army.
+
+What is at stake is more than a species. It is one of evolution's most improbable achievements: an inherited memory of a place, written in beings who will never see it twice.`,
+  },
+  {
+    id: 206, level: 3,
+    title: "The Day My Data Followed Me",
+    emoji: "🍪",
+    genre: "テクノロジー・社会",
+    words: 320,
+    desc: "ターゲティング広告の仕組みに気づいた体験から学ぶ読み物。",
+    text: `It started with a tent. For a school project about camping, I searched "beginner tent" exactly once, on one website. Within an hour, tents were everywhere: in the corner of a news site, between videos, beside my weather forecast. The same green tent literally followed me around the internet for two weeks. My project ended; the tents remained, faithful as a dog.
+
+I asked my older cousin, who studies information science, whether this was a coincidence.
+
+She laughed for an unreasonably long time. Then she explained.
+
+"When you visited that shopping site, it placed a cookie — a small file — in your browser. Think of it as a name tag you can't see. Advertising networks read the tag and noted: this browser is interested in tents. Those networks operate ads on thousands of other sites. So everywhere you went, the system recognized your tag and showed you what it knew you wanted. The tent didn't follow you. Your own shadow did."
+
+She showed me more. The personalization went far beyond tents. Two people searching the same word can receive different results, ranked by their histories. Video sites build a profile of what holds your attention — not what you say you like, but what you actually watch, including what you watch when you're tired and weak. "The system," she said, "often knows your habits better than you admit them to yourself."
+
+"Is it evil?" I asked.
+
+"It's a tool," she said. "Relevant ads can be useful. But understand the trade: these services are free because your attention and your data are the product being sold. Just know what you're paying."
+
+She taught me practical basics: clearing cookies, private browsing, checking app permissions, and the ad-settings pages where you can see what the systems think they know about you.
+
+Mine believed I was passionate about tents and, mysteriously, lawnmowers.
+
+The internet watches its watchers imperfectly.
+
+But it never stops watching.`,
+  },
+  {
+    id: 207, level: 3,
+    title: "Ame and the Vocabulary of Rain",
+    emoji: "🌧️",
+    genre: "言語・文化",
+    words: 310,
+    desc: "雨を表す日本語の豊かさから言語と文化の関係を考える読み物。",
+    text: `English speakers have rain, drizzle, shower, and downpour. Japanese has — by the count of one dictionary of rain words — over four hundred terms. There is kirisame, rain fine as mist; shigure, the brief, passing showers of early winter; samidare, the long rains of the fifth lunar month; yudachi, the sudden violent shower of a summer evening that ends as quickly as it began. There is even kitsune no yomeiri — "the fox's wedding" — for rain falling from a sunny sky.
+
+Why would one language need four hundred ways to say rain?
+
+The unromantic part of the answer is geography and economics. Japan is a rice-growing archipelago in a monsoon zone, where the timing, duration, and intensity of rain decided whether villages ate. A farming culture watches rain the way traders watch markets — and develops vocabulary with the same precision. Many rain words are essentially agricultural instruments: they encode when in the year the rain falls and what it means for the fields.
+
+The more interesting part is what happened next. This practical vocabulary was adopted by poets. The court poetry of the Heian period, and later haiku, turned weather words into emotional instruments: shigure came to carry loneliness and impermanence; samidare, a long melancholy. A single word could set a season, a mood, and a philosophical tone in three syllables — compression that translators of Japanese poetry have struggled with ever since.
+
+Linguists caution against the strong claim that vocabulary determines what people can perceive; an English speaker standing in shigure feels the same cold drops. But words do shape attention. A person who knows four hundred rain words has been handed four hundred invitations to notice.
+
+That may be the real lesson, and it travels beyond Japanese: every specialized vocabulary — a sailor's winds, a skier's snows, a barista's roasts — is a trained way of seeing.
+
+Learning the words, we inherit the noticing.`,
+  },
+  {
+    id: 208, level: 3,
+    title: "The Marathon Monk",
+    emoji: "🏔️",
+    genre: "文化・物語",
+    words: 315,
+    desc: "比叡山の千日回峰行を紹介する読み物。人間の限界と精神力。",
+    text: `On Mount Hiei, near Kyoto, a small number of Buddhist monks have completed what may be the most demanding physical and spiritual challenge on Earth. It is called the sennichi kaihogyo — the thousand-day circumambulation — and in fourteen centuries, only about fifty men are recorded to have finished it.
+
+The numbers alone seem impossible. Over seven years, the monk must complete one thousand days of mountain marathons. In the early years, he walks and runs thirty to forty kilometers each night along steep forest paths, stopping to pray at over two hundred fifty stations — in straw sandals, in all weather, on a diet of vegetables, rice, and miso. In the later years, the distances grow: some stretches reach eighty-four kilometers a day, roughly two marathons, day after day for a hundred consecutive days.
+
+Embedded in the seventh year is the trial considered hardest of all: the doiri — nine days without food, without water, and without sleep, spent in continuous prayer. Medical observers have described the monks who emerge as having approached the boundary of what a human body can survive. By tradition, monks of earlier eras carried a rope and a knife: the practice, once begun past a certain point, permitted no honorable withdrawal.
+
+Why? The monks' own answers are quietly consistent. The goal is not athletic achievement — they reject the "marathon monk" framing that fascinates foreigners — but the dissolution of the self through exhaustion of everything the self relies on. What remains, they report, is gratitude: completers famously describe overwhelming thankfulness for the smallest things — water, a stone, a stranger's face.
+
+One finisher, asked what he had learned from running a thousand nights through the mountains, gave an answer of perfect simplicity: that everyone he met thereafter appeared to him as the Buddha.
+
+Seven years of superhuman effort, in other words, to arrive at kindness.
+
+Perhaps the route matters less than monks make it look.`,
+  },
+  {
+    id: 209, level: 3,
+    title: "Why Bread Rises",
+    emoji: "🍞",
+    genre: "科学・食",
+    words: 310,
+    desc: "パンが膨らむ仕組みを解説する身近な化学読み物。",
+    text: `Inside every loaf of bread is a story of captive breath. The airy softness we take for granted is the work of billions of microscopic organisms, fed, exercised, and finally baked into the architecture they built. Understanding bread is a short course in biology, chemistry, and patience.
+
+The hero is yeast: a single-celled fungus, dormant in its packet like powdered sleep. Add warm water and flour, and it wakes hungry. Yeast eats sugars — some present in the flour, more released as enzymes break down the wheat starch — and through fermentation produces two famous byproducts: alcohol and carbon dioxide gas. The gas is the engine of rising. Bubbling out of billions of cells, it pushes the dough outward from within.
+
+But gas alone would simply escape. The second hero is gluten — the protein network that gives the breath somewhere to live. When flour meets water and is kneaded, two proteins link into long, elastic strands, weaving a three-dimensional net through the dough. Kneading is not mixing; it is construction. The finished gluten net is both stretchy and strong, so each bubble of yeast-made gas inflates a tiny balloon that holds. A risen dough is a foam: millions of gas pockets in protein walls.
+
+Then comes the oven, and the drama called oven spring. Heat makes the trapped gases expand violently and the alcohol vaporize; for a few glorious minutes the loaf inflates like a hot-air balloon festival. Around ninety degrees Celsius, the yeast dies — its work complete — and the gluten walls stiffen, freezing the bubble architecture in place. The crust browns through the Maillard reaction, the same chemistry that flavors grilled steak and roasted coffee.
+
+Slice the finished loaf and look closely at the holes.
+
+Each one is the fossilized breath of an organism that lived, ate, exhaled, and died to make your toast light.`,
+  },
+  {
+    id: 210, level: 3,
+    title: "The Kindness Experiment",
+    emoji: "💌",
+    genre: "心理・エッセイ",
+    words: 320,
+    desc: "一日一善を一か月続けた実験記。親切の心理学。",
+    text: `In psychology class, our teacher mentioned a research finding: people who perform small acts of kindness regularly report greater happiness than people who receive equivalent good luck. The class was skeptical. "Being kind is for the other person's benefit," someone said. "How does the giver profit?"
+
+Our teacher smiled and assigned the obvious homework: one deliberate act of kindness per day, for thirty days, with a journal. "Be your own laboratory," she said.
+
+My first week was awkward. Deliberate kindness feels strangely artificial at first — like a transplanted organ the body wants to reject. I held doors, returned a dropped glove, helped a first-year student find the gym. Each time, a small embarrassed voice asked: do I seem strange? Day four, I picked up trash at the park and felt mainly self-conscious, scanning to see if anyone was watching. The journal entries from that week are stiff and dutiful.
+
+The second week, something loosened. The acts became easier to find — or maybe I became better at seeing them. That distinction turned out to be the experiment's first real discovery: hunting daily for chances to help rewires your attention. The world contains a constant supply of liftable burdens; normally we filter them out. My filter was changing.
+
+Week three produced the finding the researchers promised. The happiness was real, and it had a specific texture — not excitement, but something quieter, like the satisfaction after exercise. Psychologists apparently call it "helper's high." My journal entry from day nineteen: "Carried Mrs. Sato's rice bag to the third floor. Two minutes. Felt good for two hours. Suspicious exchange rate. Investigating."
+
+The final discovery came after the experiment ended. On day thirty-three — homework finished, journal submitted — I noticed I was still doing it. The habit had survived its assignment.
+
+Conclusion of one amateur laboratory: kindness is not a withdrawal from your account.
+
+Strangely, inexplicably, it is a deposit.`,
+  },
+  {
+    id: 211, level: 3,
+    title: "Sign Language Is Not Mime",
+    emoji: "🤟",
+    genre: "言語・社会",
+    words: 315,
+    desc: "手話が完全な言語であることを解説する言語学読み物。",
+    text: `A common assumption about sign language goes like this: it is a collection of gestures — a kind of elaborate pantomime, the same everywhere in the world, invented to compensate for the absence of "real" language. Every part of that assumption is wrong, and the truth is far more interesting.
+
+Sign languages are complete, natural languages, with everything the term implies. Japanese Sign Language, American Sign Language, and British Sign Language are distinct, mutually unintelligible languages — ASL and BSL differ so much that American and British deaf signers cannot understand each other, while ASL is historically related to French Sign Language. Each has its own grammar, and these grammars are not borrowed from the surrounding spoken language: JSL is not "Japanese performed with hands" but a different system, where grammar lives in space — verb directions show who did what to whom — and facial expressions function grammatically, marking questions and conditionals the way intonation does in speech.
+
+The scientific evidence for their full linguistic status is elegant. Brain imaging shows that signers process sign language in the same left-hemisphere language regions that handle speech — not in the areas for general gesture or spatial processing. Deaf babies exposed to sign language "babble" with their hands, repeating rhythmic syllable-like movements exactly as hearing babies babble sounds. Signed languages have poetry, puns, dialects, slang, and historical change.
+
+Perhaps the most remarkable demonstration occurred in Nicaragua in the 1980s, when deaf children gathered in schools for the first time, arrived with only home gestures — and collectively, spontaneously generated a brand-new language, which younger children then enriched with grammar no one had taught them. Linguists watched a language being born.
+
+The deeper lesson reaches beyond deafness. Language, it turns out, is not fundamentally about sound. It is about the human mind's drive to build structured meaning — which will find a channel.
+
+Given a voice, it speaks. Given hands, it signs. Denied both, it invents.`,
+  },
+  {
+    id: 212, level: 3,
+    title: "The Last Public Phone",
+    emoji: "☎️",
+    genre: "社会・エッセイ",
+    words: 310,
+    desc: "消えゆく公衆電話の役割を考えるエッセイ。古い技術の価値。",
+    text: `There is a public telephone outside our town's post office — green, sturdy, and almost always alone. I must have passed it a thousand times without a glance. Last month, I finally wondered: in a country where practically everyone carries a phone, why does it still exist?
+
+The answer turned out to be quietly impressive: the public phone survives because it is the cockroach of communication technology — unglamorous and nearly indestructible.
+
+Consider what happened during the great earthquake of 2011. Mobile networks collapsed within minutes, crushed by traffic and power failures; for hours, millions of mobile phones became useless slabs. The public phones kept working. They draw power through the telephone line itself, independent of the local electricity grid, and they receive priority connection when networks congest. Lines formed at green phones across eastern Japan that day — including, news photos showed, lines of people holding dead smartphones.
+
+This is why Japanese law still requires public phones to be maintained within a certain distance of every populated area. They are not relics that escaped cleanup. They are designated disaster infrastructure, waiting patiently for the day the clever networks fail.
+
+There are quieter justifications too. The public phone serves people who fall through technology's cracks: children too young for their own phones, elderly people who never adopted them, anyone whose battery has died at the wrong moment. Schools near my town teach children how to use one — which buttons, which coins — precisely because most have never touched one.
+
+I tried it myself, for journalism. The receiver was heavier than expected. The dial tone hummed, ancient and confident. My ten-yen coin bought me a short call to my surprised mother, who laughed and asked if I was calling from the past.
+
+In a way, I was. But the past, it turns out, is on standby duty —
+
+For the future's worst day.`,
+  },
+  {
+    id: 213, level: 3,
+    title: "How Cats Took Over the Internet (and Our Homes)",
+    emoji: "🐈",
+    genre: "文化・歴史",
+    words: 315,
+    desc: "猫と人間の一万年の歴史をたどる読み物。自己家畜化の不思議。",
+    text: `Dogs were domesticated. Cats, the evidence suggests, domesticated themselves — and the difference explains nearly everything about them.
+
+The story begins about ten thousand years ago, when humans in the Fertile Crescent invented agriculture and, with it, something revolutionary: stored grain. Granaries attracted mice; mice attracted the local wildcats. A natural bargain emerged with no negotiation. Cats that tolerated human proximity gained a hunting ground of concentrated prey; humans whose grain was patrolled gained pest control. Neither party managed the other. Genetic studies confirm the result: the domestic cat is barely changed from the African wildcat — unlike dogs, whose bodies and minds humans reshaped through deliberate breeding for thousands of years.
+
+This self-service domestication left cats with a peculiar status: animals that live with us without entirely working for us. Dogs were bred to read human commands and crave human approval. Cats kept their own management structure. Research shows cats can read human emotions and recognize their names — they simply reserve the right to act on this information selectively. The independence that frustrates dog people is not a defect. It is the original contract: pest control, companionship optional.
+
+From the granaries, cats conquered the world by ship. Sailors prized them for protecting food stores and rigging from rats, and every port they visited received feline immigrants. Egypt worshipped them; medieval Europe persecuted them, with plague-friendly consequences; Japan's beckoning cat became a global symbol of fortune.
+
+Then came the internet, and the strangest chapter. Cats — animals that ignore commands and perform nothing on demand — became the unofficial mascots of online culture, generating billions of views. Theories abound, but one is elegant: unlike dogs, cats are indifferent to the camera, so every cat video is a small documentary of authentic behavior.
+
+Ten thousand years later, the contract holds.
+
+They still came for the mice. They still stay on their own terms.`,
+  },
+  {
+    id: 214, level: 3,
+    title: "The Mistake That Saved the Cookies",
+    emoji: "🍫",
+    genre: "歴史・科学",
+    words: 310,
+    desc: "偶然から生まれた発明の物語。チョコチップクッキーとセレンディピティ。",
+    text: `In 1938, at the Toll House Inn in Massachusetts, a baker named Ruth Wakefield made one of history's most delicious mistakes — or so the legend goes. The popular story says she ran out of baker's chocolate and substituted chopped pieces of a semi-sweet bar, expecting them to melt evenly through the dough. They did not. They held their shape, soft and distinct, and the chocolate chip cookie was born.
+
+Historians doubt the accident. Wakefield was a trained dietitian and a meticulous professional; people who knew her insisted she invented the cookie deliberately. But the myth survives because it belongs to a genre we love: the happy accident. And that genre, it turns out, is genuinely important to the history of invention — with one crucial correction.
+
+The record of accidental discovery is long and real. Penicillin began as mold contaminating a forgotten dish. The microwave oven traces to a candy bar melting in an engineer's pocket near radar equipment. Post-it notes came from a glue that failed at its only job, sticking permanently. Safety glass, X-rays, vulcanized rubber, the pacemaker — each involves an unplanned event.
+
+But study these stories closely and the correction emerges: the accident is never the invention. Mold had landed on countless dishes before Alexander Fleming's; the difference was a prepared scientist who looked at ruined work and asked why instead of discarding it. Chocolate had surely failed to melt in other kitchens; the difference was a baker skilled enough to recognize that the failure was better than the plan. Louis Pasteur compressed the principle into a famous sentence: chance favors the prepared mind.
+
+Serendipity, in other words, is a collaboration. The universe supplies random events generously and indifferently. Preparation — knowledge, attention, and the humility to study one's own mistakes — converts a tiny fraction of them into discoveries.
+
+The rest of the accidents simply get thrown away, by people who knew exactly what they expected to see.`,
+  },
+  {
+    id: 215, level: 3,
+    title: "Half the World's People, Two Percent of the Names",
+    emoji: "🏷️",
+    genre: "社会・文化",
+    words: 315,
+    desc: "名字の偏りから社会の歴史を読む読み物。姓の文化比較。",
+    text: `In South Korea, roughly half the population shares just three family names: Kim, Lee, and Park. In Vietnam, about forty percent of people are named Nguyen. China's hundred most common surnames cover the overwhelming majority of its 1.4 billion citizens. Meanwhile, Japan has an estimated one hundred thousand or more distinct family names, and tiny Belgium has more surnames than all of China. Why do some societies concentrate their names so dramatically while others scatter them? The answer is a history lesson hidden in plain sight.
+
+Names concentrate where they carried power. In Korea, surnames originally belonged to aristocracy; commoners had none. Over centuries, prestigious clan names like Kim spread as people gained, purchased, or simply adopted them — especially in the late nineteenth century, when status systems collapsed and everyone needed a registered surname. Choosing a famous name was choosing a better story for one's descendants. Vietnam's Nguyen multiplied similarly, tracking the name of ruling dynasties — sometimes for loyalty, sometimes for safety during political changes.
+
+Japan ran the experiment in reverse. Until 1875, most ordinary Japanese had no legal surname; then a modernizing government suddenly required one of every citizen. Millions of families invented names almost overnight, and most reached for what they could see: the landscape. Tanaka — middle of the rice field. Yamamoto — base of the mountain. Ishikawa — stone river. The result is a national name-map of geography, and enormous diversity, because every village generated its own.
+
+Surname systems encode other histories too: Iceland still builds names from the father's or mother's given name anew each generation; many cultures attached trades, preserving medieval economies in words like Smith, Baker, and Carpenter.
+
+Your family name, whatever it is, is a fossil — compressed evidence of how your ancestors farmed, served, fled, climbed, or registered with reluctant bureaucrats.
+
+Half the fun is learning which.`,
+  },
+  {
+    id: 216, level: 3,
+    title: "The Quiet Power of Boredom",
+    emoji: "🪑",
+    genre: "心理・エッセイ",
+    words: 320,
+    desc: "退屈の効用を科学的に考えるエッセイ。創造性と心の整理。",
+    text: `Boredom has become an endangered experience. The moment it threatens — in a queue, on a train, in the ninety seconds of a microwave countdown — we reach for the phone and execute it instantly. The average person now encounters less undiluted boredom than perhaps any humans in history. This sounds like progress. A growing pile of psychological research suggests it may be a quiet loss.
+
+Consider first what boredom is for. Emotions are signals: fear flags danger, loneliness flags disconnection. Boredom, researchers argue, flags meaninglessness — it is the mind's alarm that current activity lacks value, and its function is to push us toward something better. An organism incapable of boredom would contentedly do nothing forever. The discomfort is the engine. Crucially, the engine needs time to engage: kill the signal within three seconds, every time, and it never gets to do its pushing.
+
+Then there is what happens inside an unstimulated mind. Brain imaging shows that during idle, undirected time, the brain switches into its default mode network — a state associated with autobiographical reflection, imagining the future, and connecting unrelated ideas. This is the neurological home of daydreaming, and it appears to be where much creative recombination happens. The shower's famous idea-generating power is no mystery: it is one of the last places we routinely go without a screen. Experiments back this up — participants given deliberately boring tasks before a creativity test consistently outperform the unbored.
+
+History agrees anecdotally. Newton's reflections in plague-year isolation, ideas arriving on long walks taken by philosophers and composers — the pattern repeats: insight tends to visit minds left alone with themselves.
+
+None of this romanticizes chronic, trapped boredom, which is genuinely corrosive. The case is for small, voluntary doses — the queue endured phoneless, the walk without earphones.
+
+Boredom is the mind knocking on its own door.
+
+Lately, nobody has been answering. It might be worth staying home for the knock.`,
   }
 );

@@ -766,5 +766,723 @@ Here is what surprised me most: I cannot look at beaches the same way anymore. E
 A two-hour cleanup will not save the ocean. I know that. But forty people, every month, in thousands of towns around the world? That is not nothing.
 
 This Sunday, I am going again. Not for the free drinks this time.`,
+  },
+  {
+    id: 177, level: 2,
+    title: "The Hundred-Yen Shop Challenge",
+    emoji: "🛍️",
+    genre: "日常",
+    words: 400,
+    desc: "100円ショップで贈り物を工夫する話。アイデアと工作の楽しみ。",
+    text: `My cousin Mira was coming back from two years in Canada, and our family planned a small welcome party. Everyone prepared something. My aunt ordered a cake. My mother cooked. My job, as the youngest, came with a joke from my uncle: "Your budget is five hundred yen. Impress us."
+
+Five hundred yen! That is not even the price of a movie ticket. But I accepted the challenge — mostly because everyone laughed, and I wanted to win the joke.
+
+I went to the hundred-yen shop near the station. If you have never explored one seriously, you are missing a whole world. The shop has everything: dishes, tools, toys, garden supplies, art materials, and a hundred things you never knew existed. Everything costs one hundred yen.
+
+I walked the aisles slowly, thinking about Mira. What did I remember about her? She loves photos. She used to take pictures of everything — food, clouds, our grandmother's hands. Before she left for Canada, she took a hundred photos at the airport alone.
+
+That gave me my idea.
+
+I bought five things: a plain white photo album, a set of colored paper, sticker letters, ribbon, and a small box of decoration flowers. Total: five hundred yen. Perfect.
+
+At home, I worked for three days. I collected photos of our family from the two years Mira was away — birthdays she missed, the new baby cousin she had never met, grandmother's garden in every season. I printed them at the convenience store with my own pocket money. (Okay, so my real total budget went a little over. Don't tell my uncle.)
+
+I decorated every page with the colored paper and stickers. On the first page, I wrote: "What You Missed — Volume 1." On the last page: "Volume 2 starts now. Welcome home."
+
+At the party, Mira opened presents. Nice ones — a sweater, cosmetics, gift cards. Then she opened mine.
+
+She turned the pages slowly. At the baby cousin's page, she gasped. At grandmother's garden, she went quiet. By the last page, she was crying and laughing at the same time. She hugged me so hard my bones made sounds.
+
+My uncle leaned over. "Five hundred yen?" he whispered.
+
+"More or less," I said.
+
+He nodded slowly. "Best value at this party."
+
+Money makes good presents. But memory makes better ones.`,
+  },
+  {
+    id: 178, level: 2,
+    title: "Running in the Rain",
+    emoji: "🌦️",
+    genre: "物語",
+    words: 405,
+    desc: "雨の中の駅伝大会で学んだチームの絆を描く物語。",
+    text: `The morning of the relay race, the sky was the color of wet concrete. Our team gathered under the school roof, watching the rain fall on the course.
+
+"Maybe they will cancel it," said Kenta hopefully. Kenta was our first runner and our biggest worrier.
+
+"They won't," said our captain, Asuka. "Light rain is fine. Get ready."
+
+Our team of five had practiced for two months for this city relay. Each of us would run two kilometers. We were not the fastest team — our school had never finished higher than sixth — but Asuka believed in us with a confidence that was almost scary.
+
+The race started at nine. Kenta ran first, through puddles, and handed off the sash in eighth place. Not bad. Mei ran second and passed one runner. Seventh.
+
+Then came Daigo's leg — and disaster. Somewhere on the wet corner near the park, he slipped and fell. By the time he got up and finished his leg, his knee was bleeding and we had dropped to eleventh place. He handed the sash to Asuka with tears mixing into the rain on his face. "I'm sorry," he kept saying. "I'm sorry."
+
+What happened next became a school legend.
+
+Asuka ran her two kilometers like something was chasing her. She passed two runners on the long straight road. She passed another on the bridge. The rain got heavier; she got faster. When she handed me the sash for the final leg, we were in seventh place, and she shouted only two words: "Five more!"
+
+Five more runners to pass. In two kilometers. In the rain.
+
+I did not think. I just ran. My shoes were soaked and heavy. I passed the runner from the East school on the first hill. Two more on the river road — they had slowed in a deep puddle that I jumped over like a movie hero. The fourth one, just before the last corner.
+
+The finish line appeared. One more runner ahead, ten meters. Five meters. The gap was closing — but the line came too soon.
+
+Third place. Our school's first time ever in the top three.
+
+We stood together getting drenched, hugging and shouting. Daigo cried again, differently this time. Asuka, calm as always, said, "See? Rain is fine."
+
+At the ceremony, our medal was small and bronze.
+
+In our memory, it is enormous and gold.`,
+  },
+  {
+    id: 179, level: 2,
+    title: "Grandma's Smartphone Lessons",
+    emoji: "📲",
+    genre: "日常",
+    words: 400,
+    desc: "祖母にスマホを教える話。世代を超えた学び合いとユーモア。",
+    text: `Last month, my grandmother bought her first smartphone. She is seventy-six. The phone shop gave her a thick instruction book, which she read with a magnifying glass, cover to cover — and understood almost nothing.
+
+"Books don't teach phones," she announced at Sunday dinner. "People teach phones." Then she looked directly at me. "Every Saturday. One hour. I will pay you in pudding."
+
+That is how I became my grandmother's smartphone teacher. Best job ever — her homemade pudding is famous in our family.
+
+Lesson one: the basics. Touch, swipe, go home. Grandma touched the screen like it was a sleeping bear. "Softer, Grandma. It's not a stamp." By the end of the hour, she could open the camera. She took thirty-two photos of her own thumb.
+
+Lesson two: messages. I taught her to send a text. Her first message to my mother said: "THIS IS GRANDMA. I AM USING THE PHONE. IS THIS WORKING. THERE IS NO REASON TO REPLY." My mother replied anyway. Grandma was shocked. "She answered! Inside the phone!"
+
+Lesson three: the magic of voice messages. This changed everything. Grandma hates typing — "the letters are made for ant fingers" — but voice messages? She is a natural. Now she sends our family group chat a daily morning report: the weather, her garden, and one piece of advice nobody asked for. We all love it.
+
+Lesson four: video calls. When my aunt's face appeared on the screen, live from Osaka, Grandma touched the screen gently, right on my aunt's cheek. "Technology is strange," she said quietly. "Your face is here, but you are far." Then she spent forty minutes showing my aunt every flower in her garden, holding the phone centimeters from each one.
+
+But lesson five was where the student surpassed the teacher. I showed her a translation app — speak Japanese, hear English. Her eyes went wide. The next week, I discovered she had been using it daily to talk with her neighbor, a woman from Vietnam who moved in last year. They had been bowing silently to each other for twelve months. Now they exchange vegetables and complaints about the weather.
+
+"Twelve months of silence," Grandma said, "ended by one app. You should charge me more than pudding."
+
+I refused. The pudding is enough.
+
+Besides — watching her world get bigger every Saturday? That part is free.`,
+  },
+  {
+    id: 180, level: 2,
+    title: "The Secondhand Bicycle",
+    emoji: "🚲",
+    genre: "物語",
+    words: 405,
+    desc: "中古自転車を自分で直す話。お金の価値と手仕事の喜び。",
+    text: `I wanted a new bicycle. Specifically, I wanted the silver mountain bike in the shop window near the station — the one that cost sixty thousand yen. My parents' answer was short: "Save for it."
+
+I calculated. With my allowance, saving sixty thousand yen would take... twenty months. The mountain bike would be gone. I would be old. Life was unfair.
+
+Then my father made a strange offer. "Old Mr. Tanaka is cleaning his garage. He has a bicycle he wants to throw away. It's yours for free — if you fix it yourself. I'll pay for parts."
+
+A garbage bicycle! I almost said no. But that Saturday, curiosity won, and we walked to Mr. Tanaka's house.
+
+The bicycle was old, dusty, and the saddest thing I ever saw. Flat tires. Rusty chain. A broken bell. A basket with a hole. It was brown — not painted brown, rust brown.
+
+"It was a good bike, thirty years ago," said Mr. Tanaka. "Strong frame. They don't make them like this now."
+
+I looked at the sad brown thing. Then I thought about twenty months of saving. "Okay," I said. "I'll try."
+
+We rolled it home, and my education began. My father showed me how to remove a tire — harder than it looks. We patched one tube and replaced the other. I learned what a chain cleaner is, and that rust dissolves if you fight it long enough. I fought it for two weekends. My hands turned black. My back hurt. Twice, I wanted to quit.
+
+But something strange happened along the way. Every part I fixed became my part. The chain I cleaned, link by link, was my chain. When we replaced the brake pads, I understood brakes — really understood them — for the first time in my life.
+
+We painted the frame deep blue, with masking tape and three slow, careful spray cans. We added a new bell, a light, and a basket from the hundred-yen shop.
+
+Total cost of parts: four thousand two hundred yen.
+
+The finished bicycle is not a sixty-thousand-yen mountain bike. It is better. It is mine in a way no shop bicycle could ever be. I know every bolt. I made every shine.
+
+Yesterday, a classmate asked, "Nice bike. Where did you buy it?"
+
+"I didn't buy it," I said. "I built it."
+
+That sentence was worth more than sixty thousand yen.`,
+  },
+  {
+    id: 181, level: 2,
+    title: "A Letter from the Past",
+    emoji: "🏺",
+    genre: "物語",
+    words: 400,
+    desc: "タイムカプセルを開ける話。過去の自分との対面。",
+    text: `When I was in the second grade, our class buried a time capsule in the school garden. Inside, every student put a letter to their future self. The promise: we would open it in five years, in our final year of elementary school.
+
+Honestly? I completely forgot about it.
+
+Then, last month, our teacher made the announcement: "This Friday, we dig up the capsule." The class exploded with excitement and mild panic. Nobody could remember what they wrote. Five years is a lifetime when you are twelve.
+
+Friday came. The whole class gathered around the garden corner with two shovels. The digging took twenty minutes — second-grade us had buried it seriously deep. Finally, clunk: a metal box, dirty but dry inside.
+
+Our teacher handed out the letters, checking each name. The envelope with my name was decorated with dinosaur stickers. Dinosaurs! I had completely forgotten my dinosaur era.
+
+I opened it carefully. The handwriting inside was enormous and wobbly, like the letters were dancing. Seven-year-old me wrote:
+
+"Dear big me. Are you tall now? I hope you are tall. Is Kota still your best friend? Do you still hate green peppers? I have a loose tooth today. Important: did you become a dinosaur scientist yet? If not, why? Work hard. Also be nice to Mom. From small you."
+
+I read it three times. Around me, the classroom was full of laughter and strange quiet moments. Kota — yes, still my best friend — was laughing so hard at his own letter that he could not speak. He showed me: seven-year-old Kota had written only, "Hello. I like buses. Goodbye."
+
+But some letters hit deeper. The girl behind me went very quiet reading hers. Her grandfather had helped her write it, and he passed away two years ago. She folded it gently and put it in her bag like treasure.
+
+That evening, I answered my letter. It felt right.
+
+"Dear small me. Yes, I am taller — but Mom is still taller, sorry. Kota is still my best friend. I eat green peppers now (sometimes). I am not a dinosaur scientist yet, but I got one hundred points in science last term, so the project is alive. I am nice to Mom on most days. Thanks for writing. From big you."
+
+I put it in my desk drawer.
+
+Maybe seventeen-year-old me will find it someday.`,
+  },
+  {
+    id: 182, level: 2,
+    title: "The School Garden Tomatoes",
+    emoji: "🍅",
+    genre: "学校",
+    words: 395,
+    desc: "学校菜園でトマトを育てて販売する話。働くことと達成感。",
+    text: `In April, our class started a special project: grow vegetables in the school garden, sell them at the autumn school festival, and donate the money to the town's animal shelter. Our teacher called it "real economics." We called it "playing in the dirt" — at first.
+
+We voted to grow tomatoes, cucumbers, and green peppers. The class divided into three teams. I joined Team Tomato, mostly because my best friend did.
+
+April and May were planting season. We learned to prepare the soil, which is heavier work than any textbook suggests. We planted small tomato seedlings, soft and bright green, and built bamboo supports for them to climb.
+
+June taught us responsibility. Tomatoes are thirsty, dramatic plants. Miss one watering day, and they droop like actors in a tragedy. We made a rotation schedule, including summer vacation. Yes — we came to school in summer to water plants. My grandmother laughed: "In my day, that was called farming, not a project."
+
+July brought our first crisis: aphids, hundreds of tiny green invaders. The science teacher taught us a soap-water spray, and Team Tomato went to war. We won, mostly.
+
+August brought the magic. The first tomatoes turned from green to orange to deep red. We tasted one, standing in the garden, splitting it five ways. Warm from the sun, it tasted nothing like supermarket tomatoes. It tasted alive.
+
+September was harvest month. Our team collected eleven kilograms of tomatoes. Cucumber Team got nine kilos. Pepper Team, despite a difficult summer, managed six.
+
+Then came festival day — and the part nobody expected to love: selling. We made signs, arranged the vegetables in neat boxes, and shouted like real market sellers. "Fresh tomatoes! Grown at this school! The water was carried by actual children!" Customers laughed and bought. Parents bought. Teachers bought. The principal bought two bags and posed for a photo.
+
+We sold out in ninety minutes. Total earnings: eighteen thousand four hundred yen.
+
+In October, three class representatives delivered the money to the animal shelter. The shelter sent our class a thank-you card with photos of the dogs our money would feed. It is on our classroom wall now, next to a photo of Team Tomato in July — five kids, dirty hands, enormous smiles.
+
+Real economics, it turns out, tastes like a sun-warmed tomato.`,
+  },
+  {
+    id: 183, level: 2,
+    title: "Lost in Translation",
+    emoji: "💬",
+    genre: "文化",
+    words: 400,
+    desc: "外国人観光客を助けようとした体験談。伝える工夫と勇気。",
+    text: `It happened at the train station on an ordinary Tuesday. I was waiting for my train home when I noticed a foreign couple standing in front of the route map. They looked very, very lost. The man pointed at the map, then at his phone, then at the map again. The woman turned a paper map upside down, as if that might help.
+
+Nobody stopped to help them. People flowed around them like water around stones.
+
+I knew some English. School English. "This is a pen" English. Could I help? My heart said yes; my feet said absolutely not. What if I made a mistake? What if they laughed?
+
+Then I remembered something our English teacher always says: "Perfect English helps nobody if it stays inside your mouth."
+
+I took a breath and walked over.
+
+"Hello. Can I help you?"
+
+Their faces lit up like lanterns. The man spoke fast — too fast. I caught maybe four words: "temple," "famous," "which train," and "please."
+
+"Slowly, please," I said, which is a sentence I had practiced a hundred times but never used.
+
+He slowed down. They wanted the famous old temple in the next city. They had tickets but did not know the platform.
+
+I knew this one! "Platform three," I said. "Express train. Twenty minutes." Then my English ran out — the next part was complicated. The express train splits into two parts at one station, and only the front part goes to the temple. How could I possibly explain "the train separates and only the front half continues"?
+
+I tried words. Their faces showed polite confusion. I tried gestures, splitting an invisible train with my hands. More confusion, now with concern.
+
+Then I had an idea. Paper. I drew the train as a line of boxes, drew the station, drew the front boxes continuing and the back boxes stopping. I drew a stick person in a front box with a circle and the word "OK!"
+
+"Ahhh!" they said together. The universal sound of understanding.
+
+The woman took a photo of my drawing. The man shook my hand with both of his hands. "Thank you! Great teacher!" he said.
+
+My train arrived. Walking to the door, I felt about three meters tall.
+
+My English is not perfect. My drawing is worse.
+
+But that day, both were exactly enough.`,
+  },
+  {
+    id: 184, level: 2,
+    title: "The Night Before the Speech",
+    emoji: "🎙️",
+    genre: "学校",
+    words: 405,
+    desc: "スピーチコンテスト前夜の緊張と本番を描く話。",
+    text: `Tomorrow, I have to give a speech in front of the whole school. Three hundred and forty people. As class representative, I will present our environmental project at the morning assembly. Five minutes. Microphone. Stage.
+
+I might not survive.
+
+Tonight, I practiced in my room for the fortieth time. I know every word. The problem is not memory. The problem is the picture in my head: three hundred and forty faces, all looking at me, waiting for me to fail.
+
+At dinner, I could not eat much. My family noticed.
+
+"Imagine the audience in their underwear," said my father. "Classic trick."
+
+"That's weird, Dad. I'm not doing that."
+
+My mother offered, "Just read your paper. Nobody expects a perfect performance."
+
+My grandfather, who was visiting, said nothing during all this. But after dinner, he called me to the garden. He was a school principal long ago, and he had given a thousand speeches.
+
+"Nervous?" he asked.
+
+"Very."
+
+"Good," he said.
+
+"Good?!"
+
+"Nervousness means you care. The day you feel nothing is the day you should worry." He picked a flower and turned it in his fingers. "Now, tell me — what is your speech about?"
+
+"Our class project. Cleaning the river. The data we collected, the garbage we—"
+
+"No," he interrupted gently. "What is it about?"
+
+I thought. "About... how our small river got cleaner because thirty kids decided it mattered?"
+
+"There it is," he said. "Tomorrow, three hundred people will forget your data within an hour. But if one student looks at that river differently next week — your speech worked. You are not performing. You are delivering a message that matters. The messenger can shake. The message will stand."
+
+I slept better than I expected.
+
+At the assembly, my legs trembled climbing the stage steps. The microphone made my breath sound like a typhoon. The first sentence wobbled out of me.
+
+Then I remembered: the message will stand. I found one face in the crowd — a first-year boy actually listening — and I told him about our river. The data, yes, but mostly the river: how it smelled in April, and how it looked in October when the fish returned.
+
+Five minutes passed in what felt like thirty seconds.
+
+The applause was real. But the best part came three days later — first-year students at the river with garbage bags, starting their own project.
+
+The messenger shook. The message stood.`,
+  },
+  {
+    id: 185, level: 2,
+    title: "My Father's Old Guitar",
+    emoji: "🎸",
+    genre: "物語",
+    words: 400,
+    desc: "父の古いギターを受け継ぐ話。音楽と家族の歴史。",
+    text: `In the corner of our storage room, behind the winter blankets and the broken fan, there is a black case shaped like a strange teardrop. For years, I thought it was just another piece of family junk. Last month, I finally asked.
+
+"That?" My father's face changed in a way I had never seen. "That is my guitar."
+
+My father — a quiet bank employee who falls asleep during movies — owned a guitar?
+
+He opened the case slowly. Inside was an acoustic guitar, dusty but beautiful, the wood the color of dark honey. Inside the case lid, I saw a faded sticker of a band name and a photo: four young men with wild hair, holding instruments, laughing. I looked closer at the thin one with the guitar.
+
+"DAD?!"
+
+"We were called The Blue Lions," he said, smiling at the photo. "University band. We played every weekend. We were going to be famous." He laughed. "We were definitely not going to be famous. We were terrible. But we were terrible with all our hearts."
+
+He told me stories I had never heard. The festival where the power failed, so they sang without microphones and the crowd sang louder. The song he wrote for a girl in the literature department — my mother, it turned out, who reviewed it as "musically questionable but sweet."
+
+"Why did you stop?" I asked.
+
+He shrugged. "Life. Job, family, time. I always meant to play again. Then twenty years passed while I was meaning to."
+
+He tuned the guitar — it took a while — and played something slow. His fingers were stiff at first, then less stiff. The song was simple and a little sad and completely wonderful. My quiet father suddenly had this whole other person inside him, just sleeping all these years.
+
+"Teach me," I said. The words came out before I thought.
+
+His head came up. "Really?"
+
+"Really."
+
+Now we practice every Sunday evening, thirty minutes, in the storage room — our studio, he calls it. My fingertips hurt constantly. I have learned four chords. We can almost play one song together: the musically questionable sweet one, for Mom's birthday next month.
+
+Yesterday, I noticed Dad ordered new guitar strings. Two sets.
+
+The Blue Lions are not coming back. But one Lion is awake again — and he is training a cub.`,
+  },
+  {
+    id: 186, level: 2,
+    title: "Cleaning Duty Revolution",
+    emoji: "🧽",
+    genre: "学校",
+    words: 395,
+    desc: "掃除当番を変えた一人の転校生の話。日本の学校文化を見直す。",
+    text: `In Japanese schools, students clean their own classrooms. Every day after lunch, we sweep the floors, wipe the desks, and empty the trash. We have done this since the first grade. To us, it is as normal as breathing.
+
+Then Marco came.
+
+Marco transferred to our class from Italy in September. Many things surprised him about our school — the indoor shoes, the lunch serving, the morning greetings. But nothing shocked him like cleaning time.
+
+"The students clean?" he repeated. "The actual school? Themselves? In Italy, we have cleaners! Adults! With professional equipment!"
+
+"Who cleans your classroom in Italy?" we asked.
+
+"The cleaning staff. At night. Like magic — you leave a dirty room, you return to a clean room."
+
+Now it was our turn to be shocked. A cleaning fairy school! Several students looked deeply jealous.
+
+But here is what made Marco interesting: he did not just complain. He observed. For two weeks, he did his cleaning duty — badly, but honestly — and watched everything. Then, during class meeting time, he raised his hand.
+
+"I have a report about cleaning," he announced. He had notes. "First, I thought this system was crazy. I am sorry. Now I think my school in Italy was missing something. In my old school, students threw trash on the floor. Why not? Someone else cleans it. Here, nobody throws trash. Because YOU will clean it. The cleaning makes the not-making-dirty."
+
+The class was quiet. We had never thought about it. It was just... cleaning.
+
+"But," Marco continued, lifting one finger, "I also have improvements to suggest." And he did — actual good ideas. Music during cleaning time, like Italian families do on Sundays. A rotation system so nobody gets stuck with toilets twice in a row. A monthly "deep clean day" with teams competing for the cleanest zone, judged by the nurse, "because she has seen everything and fears nothing."
+
+We tried all three ideas. The music changed everything — cleaning with songs is somehow forty percent easier, this is science. The competition got intense. Our class won the first month and celebrated like champions.
+
+Marco's father visited in December and watched cleaning time with wide eyes, taking photos.
+
+"Incredible," he said. "Can we send Italian students here? Just for the cleaning?"
+
+Marco translated, then added his own answer in Japanese:
+
+"Too late, Papa. I am already Japanese cleaning master."`,
+  },
+  {
+    id: 187, level: 2,
+    title: "The Typhoon Day",
+    emoji: "🌀",
+    genre: "日常",
+    words: 400,
+    desc: "台風で停電した夜の話。不便さの中の家族の時間。",
+    text: `The typhoon warning came on Thursday. Number 14, heading straight for our region. School was canceled for Friday — which sounds fun, but typhoon days are house-arrest days. We taped the windows, filled the bathtub with emergency water, charged every battery, and bought enough food for a small army.
+
+Friday afternoon, the typhoon arrived.
+
+The wind did not blow; it attacked. Rain hit the windows sideways, like thrown gravel. Our house — solid and ordinary on every other day — creaked and whistled in places I never knew could make sounds. The garden chair flew. Dad watched it cartwheel across the yard. "There it goes," he said calmly. We had tied down everything else.
+
+At 7:42 p.m., in the middle of dinner, the lights flickered twice — and died. Blackout.
+
+Total darkness is rare in a modern town. No streetlights, no neighbor's windows, no glowing appliances. Darkness like the inside of a pocket. My little sister grabbed my arm. Honestly, I was glad she did, because it gave me a reason to be brave.
+
+Then Mom's flashlight clicked on, and our typhoon night truly began.
+
+We gathered in the living room with candles, flashlights, and the battery radio. And with no TV, no internet, and phones saved for emergencies, a strange thing happened: we talked. Really talked.
+
+Dad told us about the great typhoon of his childhood, when his family slept in the school gym for two nights and he thought it was the world's biggest sleepover. Mom confessed she once failed a cooking exam by burning rice — "the only student in history," her teacher said. My sister, six years old, shared her own important secret: she had been feeding her carrots to the neighbor's dog through the fence for a year.
+
+We played card games by candlelight. Shadows made everyone's faces dramatic, like a movie. We ate the emergency snacks — "we must eat them, it's the rules," Dad insisted. Outside, the storm screamed. Inside, we laughed until Mom said even the typhoon couldn't hear itself.
+
+The power returned at 11:20 p.m. The lights blazed on, the refrigerator hummed, and everything was instantly normal and ordinary again.
+
+We were strangely disappointed.
+
+The typhoon left in the night. Saturday morning was absurdly clear and beautiful, the way it always is afterward.
+
+The garden chair was three houses away, unharmed.
+
+So were we — closer than before.`,
+  },
+  {
+    id: 188, level: 2,
+    title: "How to Make Friends with a Crow",
+    emoji: "🐦‍⬛",
+    genre: "日常・科学",
+    words: 405,
+    desc: "賢いカラスとの不思議な交流を描く観察記。",
+    text: `It started with a dropped melon bread.
+
+I was eating on a park bench when a piece fell. Before it touched the ground — I am almost sure of this — a crow appeared. Large, glossy black, with eyes like polished stones. It looked at the bread. Then it looked at me. Directly at me, the way a person checks if you are watching.
+
+I nodded, which felt ridiculous. "Take it."
+
+It took the bread and flew to a low branch. And from that day, a strange friendship began.
+
+I sit at the same bench most afternoons, doing homework before going home. The crow — I named him Sensei, because of his serious face — began appearing within minutes of my arrival. At first, he kept his distance: ten meters, then five, then the far end of my bench.
+
+I started reading about crows, and what I learned amazed me. Crows are among the smartest animals on Earth. They use tools. They solve puzzles that confuse five-year-old children. They hold funerals for other crows. And — this is the incredible part — they remember human faces for years. They tell their crow friends and family about dangerous humans... and about kind ones.
+
+I tested this knowledge scientifically. Day one: I left three peanuts on the bench end and pretended to read. Sensei collected them with the dignity of a businessman accepting documents. Day five: he arrived before me and waited. Day twelve: he brought another crow — smaller, probably his mate. He stood between us, like a formal introduction.
+
+Then came the day that made me believe everything in those crow articles. A Tuesday. I had no snacks, only homework. Sensei watched me struggle with math problems for a while. Then he flew off and returned a minute later — and dropped something shiny on the bench. A silver bottle cap, polished bright.
+
+A gift. Crows give gifts to humans they like. I knew this from my reading, but knowing and receiving are different things. I held that bottle cap like a medal.
+
+My collection now: three bottle caps, one blue glass bead, one mysterious key, and a perfectly white button.
+
+My friends think it is strange. "He's just trading for food," they say.
+
+Maybe. But last week I had a terrible day and forgot the peanuts entirely.
+
+Sensei stayed on the bench anyway, an arm's length away, until sunset.
+
+Friends are friends.`,
+  },
+  {
+    id: 189, level: 2,
+    title: "The Wrong Bus Adventure",
+    emoji: "🚌",
+    genre: "物語",
+    words: 400,
+    desc: "間違ったバスに乗った姉弟の小さな冒険。",
+    text: `On Saturday, my little brother and I took the bus to the city library. At least, that was the plan. The plan lasted exactly four minutes — until we realized our bus was turning left where it should turn right.
+
+"This is bus 23, right?" I asked Sota.
+
+He looked at his ticket. "You said get on bus 28."
+
+"I said 23!"
+
+"You definitely said 28."
+
+(I definitely said 28. But older sisters have certain privileges in the retelling of history.)
+
+Bus 28, it turned out, was heading to the mountains — the complete opposite direction. The next return bus from the final stop: one hour and twenty minutes later. We rode to the end of the line, because what else can you do?
+
+The last stop was a tiny village at the foot of the mountains. Old houses, rice fields, a shrine gate, and silence — real silence, the kind our city neighborhood never has. We were stranded explorers with eighty minutes and four hundred yen between us.
+
+"We are lost," announced Sota.
+
+"We are not lost. We know exactly where we are. We just don't want to be here." Big-sister logic.
+
+We started walking. The village, it turned out, was hiding wonders. A persimmon tree heavy with orange fruit hung over a stone wall. A cat with one folded ear followed us for two hundred meters like a tour guide, then sat down, duty complete. We found a tiny shop — half someone's house — selling drinks and snacks. The grandmother there gave us rice crackers "for being polite children" and told us the shrine up the steps was three hundred years old.
+
+We climbed to the shrine. From the top, we could see the whole valley: the rice fields in autumn gold, the river bending through them, and far away, very small, our city. Sota went quiet, which never happens.
+
+"We live there," he said. "It looks tiny."
+
+"Everything looks tiny from far enough."
+
+We rang the shrine bell, shared the crackers on the steps, and made it back for the return bus with six minutes to spare.
+
+At dinner, our parents asked about the library.
+
+"Closed for us today," I said, technically honestly. "We did field research instead."
+
+Sota grinned into his rice.
+
+Next Saturday, we are going to the library. Probably.
+
+Bus 23. I will check twice.`,
+  },
+  {
+    id: 190, level: 2,
+    title: "One Week as Class President",
+    emoji: "🗳️",
+    genre: "学校",
+    words: 400,
+    desc: "学級委員を一週間務めた体験記。リーダーの苦労と発見。",
+    text: `Nobody wanted to be class president this term. The teacher waited. The classroom studied its own desks with sudden deep interest. Finally, a system was proposed: every student takes the job for one week, in name order. Democracy by alphabet.
+
+My week came in November.
+
+Monday taught me that class president is mostly a delivery job. Carry the class journal to the staff room. Collect the homework. Report absences. Take the message about the dentist visit to the teacher. I walked more kilometers inside school that day than in a month of P.E.
+
+Tuesday taught me that the job has invisible parts. Two boys argued at lunch over a borrowed and broken pencil case. Both looked at me — apparently arguments are presidential territory. I had no idea what to do. So I did what my soccer coach does: I asked each side to explain while the other stayed silent. By the end of the explanations, the borrower had already offered to pay, and the owner had already forgiven him. They mostly needed someone to make them take turns talking. I wrote that discovery in my notebook.
+
+Wednesday taught me about unfair weight. The morning meeting ran long; we missed five minutes of break, and somehow this was my fault. "Presidents take the blame for the weather too," joked Yui, who had survived her week in October. She was only half joking.
+
+Thursday taught me the good part. Our class had been asked to suggest one improvement for the school festival. I gathered ideas during lunch — actually gathered them, walking desk to desk, writing every suggestion down, even the impossible ones (no, Kenta, we cannot have a real horse). The shy kids had the best ideas, it turned out; they had just been waiting for someone to come and ask. Our final proposal — a quiet rest room for visitors with small children — was accepted by the festival committee. The class actually cheered.
+
+Friday, I handed the journal to the next president, Sora, who looked terrified.
+
+"Advice?" he asked.
+
+I gave him my notebook. "Make them take turns talking. Ask the quiet ones. And the weather will be your fault — accept it."
+
+Being president for a week did not make me love leadership. It is heavy, invisible, thankless work.
+
+But now, when someone leads, I notice the weight.
+
+And I say thank you. Loudly.`,
+  },
+  {
+    id: 191, level: 2,
+    title: "The Save-the-Snack Economy",
+    emoji: "🍪",
+    genre: "日常・経済",
+    words: 395,
+    desc: "おやつ交換から経済を学ぶ話。価値と交渉の入門。",
+    text: `Every economics textbook should include one chapter about elementary school snack trading. I learned more about money from lunch-break negotiations than from any class.
+
+It started when my mother began putting homemade cookies in my lunch. Her cookies are exceptional — chocolate with a little salt, crispy outside, soft inside. The first day, my friend Renta offered me his entire pudding for just two cookies.
+
+The exchange rate had been set. The market was born.
+
+Within two weeks, an entire economy operated quietly in our classroom. The currency values became common knowledge. One homemade cookie equaled one pudding, or two rice crackers, or three sour candies. Strawberry milk was strong currency on hot days, worthless in winter. Hard-boiled eggs traded poorly always — sorry, egg kids.
+
+I learned my first economics lesson fast: scarcity creates value. Mom's cookies came only on Mondays and Thursdays. On those days, I was rich. Kids made offers before I even sat down. But the Monday when Mom baked extra and I brought eight cookies? Prices collapsed. Renta offered me half a pudding per cookie, shrugging: "Everyone knows you have many today."
+
+Lesson two: trust is part of the price. Hiro once promised tomorrow's chocolate for today's cookie. Tomorrow came; the chocolate did not. He had eaten it on the way to school. After that, nobody accepted Hiro's future promises — his credit, as my father later explained, was destroyed. It took Hiro a month of honest trades to rebuild it. A month is forever in snack economics.
+
+Lesson three came from quiet Misa, the market genius nobody noticed. She did not trade snacks for snacks. She traded services. She would guard your seat, deliver messages across the classroom, or draw cartoon characters on your notebook — payment in crackers. By autumn, Misa ran a service empire and never brought her own snacks at all. "Snacks get eaten," she told me once. "Skills don't."
+
+The economy ended in December when a trade dispute (the Great Gummy Conflict) got loud enough for the teacher to notice. New classroom rule: no trading.
+
+The market closed forever.
+
+But last week, my father was explaining his work — banking — at dinner. Credit, scarcity, services, trust. I understood everything.
+
+"Where did you learn all this?" he asked, surprised.
+
+"Lunch break," I said. "Two cookies per pudding."`,
+  },
+  {
+    id: 192, level: 2,
+    title: "Walking My Neighbor's Dog",
+    emoji: "🦮",
+    genre: "日常",
+    words: 400,
+    desc: "隣人の老犬の散歩を引き受けた話。小さな仕事と信頼。",
+    text: `Mrs. Okada next door broke her ankle in October. She is seventy years old and lives with Maru, a fat golden dog with a gray face and the personality of a retired king. With her foot in a cast, walking Maru became impossible.
+
+My mother volunteered me before I could open my mouth. "He would love to help! Every evening!"
+
+Thanks, Mom.
+
+The pay was set: one hundred yen per walk, plus "whatever sweets are in the house." The route was explained in great detail. The leash was handed over like a sacred object. And so began my career as a professional dog walker — staff of one, client of one.
+
+Day one was a power struggle. Maru knew I was a substitute, and substitutes get tested. He stopped at every pole. He sat down in the middle of the road and gazed at the sky like a philosopher. We covered five hundred meters in thirty minutes.
+
+But by the end of the first week, we reached an understanding. Maru's rules were actually simple: the route never changes, the corner with the cat must be approached slowly and respectfully, and the small park bench means a five-minute rest, no negotiation. He is an old gentleman with old habits. Once I respected them, we became colleagues.
+
+Then we became something more. November evenings get dark early, and our walks became my thinking time. Bad test? Maru listened. Argument with my friend? Maru listened, then leaned his heavy warm side against my leg, which fixes more problems than you would expect. Dogs cannot give advice, which makes them the best listeners on Earth.
+
+I also discovered the secret society of evening dog walkers. The same faces appear at the same corners every night, and dogs introduce humans who would never otherwise speak. Through Maru, I now know the high school girl with the husky, the bakery man with two small white dogs, and the elderly twins with matching brown poodles. We nod. We discuss dog matters. It is its own little world.
+
+Mrs. Okada's cast came off last week. She can walk Maru herself again.
+
+But yesterday evening, she knocked on our door, leash in hand.
+
+"Maru waits by the gate at five o'clock," she said, smiling. "Your time, apparently. Would you keep walking with us? Same pay."
+
+We walk together now, three colleagues.
+
+Maru leads. He knows the route.`,
+  },
+  {
+    id: 193, level: 2,
+    title: "The Used Book's Secret",
+    emoji: "📔",
+    genre: "物語",
+    words: 395,
+    desc: "古本の中に残されたメモをめぐる小さなミステリー。",
+    text: `I bought the mystery novel for one hundred and fifty yen at the secondhand bookshop. The cover was worn soft, the pages were the color of weak tea. I love used books — they are cheap, and they smell like libraries and time.
+
+This one came with something extra.
+
+On page 87, I found a note written in the margin, in small neat pencil: "He is lying. Watch the sister." Further on, page 132: "The clock! Nobody checks the clock!" And on page 200, beside a sad scene: a tiny, careful drawing of a crying face.
+
+Someone had read this book before me — really read it, with a sharp eye and a pencil. And here was the thing: their notes were good. "Watch the sister" — I watched the sister, and the sister was indeed worth watching. The clock observation cracked a puzzle two chapters before the detective did.
+
+I began reading two stories at once: the mystery in the book, and the mystery of my invisible reading partner. Who were they? The handwriting was small and tidy — an older person, I guessed. They noticed everything. They cared enough to write, but gently, in pencil, as if not to disturb the next reader.
+
+On the final page, under the last line of the novel, my partner had left a longer note:
+
+"Third time reading this. The trick still works. — To the next reader: did you suspect the sister? Be honest. K.T., autumn."
+
+K.T. Initials and a season. That was all.
+
+I sat with the closed book for a while, feeling strangely moved. Books travel. Before me, this one had lived in K.T.'s hands — possibly on a porch somewhere, in autumn, being enjoyed for the third time. Reading is supposed to be a solitary hobby. It did not feel solitary that night.
+
+I made my decision the next morning. With a pencil — gently — I added my own line under K.T.'s:
+
+"I suspected the brother. Completely wrong. The sister fooled me. Great book. — S.M., winter."
+
+Then I did something my book-collecting heart found difficult: I returned the book to the secondhand shop and sold it back for thirty yen.
+
+Somewhere out there, a third reader may now be turning to page 87.
+
+He is lying. Watch the sister.
+
+We are all reading together, just not at the same time.`,
+  },
+  {
+    id: 194, level: 2,
+    title: "Earthquake Drill, Real Lessons",
+    emoji: "🚨",
+    genre: "防災・学校",
+    words: 400,
+    desc: "避難訓練を見直した中学生の体験記。防災意識の変化。",
+    text: `Our school holds earthquake drills twice a year, and I will be honest about how students treat them: as a free break from class. The alarm rings, we crawl under desks giggling, we file out to the schoolyard chatting, someone gets scolded for laughing, the principal gives a speech, the end. Nobody's heart beats faster.
+
+That changed for me in September, when my uncle came to stay with us. He works for the city disaster prevention office, and when I joked about our "vacation drills," he did not laugh.
+
+Instead, he asked me three questions.
+
+"When the shaking starts, how many seconds do you have to protect your head?" I did not know. "Maybe two," he said. "The drill is for making your body move before your brain finishes being surprised."
+
+"Where does your family meet if an earthquake comes while you are at school and your parents are at work, and the phones are dead?" I did not know. We had never discussed it.
+
+"Where is your house's emergency water?" I knew that one! "The closet... somewhere?"
+
+"'Somewhere' is not a place you can find in the dark," he said.
+
+That weekend, my uncle turned our family into a disaster-planning team, but he made it feel like a game, not a lecture. We mapped two meeting points: the big park (first choice) and my school's gate (backup). We checked the emergency bag — the flashlight batteries had died around two years ago, which is exactly the joke and exactly the problem. We learned the apartment's gas shut-off valve. My little sister got one job, her own: grab the cat carrier. She practiced. The cat did not cooperate, which my uncle said was "realistic training."
+
+He also taught me the thing I will never forget: in a real earthquake, the drill is what your body remembers when your mind goes white. People who practiced seriously move; people who giggled stand still. "The drill is boring," he said, "because we built it from disasters that were not."
+
+At the next school drill in February, I crawled under my desk and held the legs properly. I walked out silent and counted heads in my row without being asked.
+
+My friends teased me a little.
+
+That is fine. If the real one ever comes, my body knows the way.
+
+And I know where the flashlight is. With new batteries.`,
+  },
+  {
+    id: 195, level: 2,
+    title: "The Pancake Experiment",
+    emoji: "🥞",
+    genre: "日常・科学",
+    words: 395,
+    desc: "完璧なパンケーキを目指す姉弟の実験記。試行錯誤の楽しさ。",
+    text: `It began with a simple complaint: my pancakes were terrible. Flat, pale, and sad — pancake pancakes, my brother called them, which somehow made the insult worse. The fluffy, golden, jiggling pancakes in café photos seemed like a different food entirely.
+
+"Then let's do experiments," said my brother Kaito, who is ten and watches science videos instead of cartoons. "Real ones. We change one thing at a time and record everything."
+
+And so began the Great Pancake Project: four Sundays, one kitchen, two researchers in aprons.
+
+Sunday one: the control batch. We followed the recipe on the flour package exactly and produced the usual flat, sad discs. Kaito photographed them and wrote in his notebook: "Sample A. Height: boring." Our baseline was established.
+
+Sunday two: the egg hypothesis. A video claimed that separating eggs — mixing yolks into the batter, beating whites into foam, then folding gently — creates fluffiness. Beating egg whites by hand, we discovered, is twenty minutes of arm pain. But the foam was beautiful, like white clouds. The result: noticeably taller pancakes! Height improved maybe forty percent. Kaito recorded: "Arms hurt. Worth it."
+
+Sunday three: the patience hypothesis. Another source said the secret is low heat and a lid — steam cooks the inside while the bottom stays golden instead of burning. This Sunday taught us that the enemy of pancakes is impatience. Flipping early ruins everything. Waiting for the surface bubbles — really waiting, while doing nothing — was harder than beating egg whites. The result: golden color, even cooking, no raw centers. "Patience is an ingredient," Kaito wrote, which I think he stole from somewhere, but it earned its page.
+
+Sunday four: the full combination, plus our own secret addition — a spoonful of yogurt, Mom's suggestion, "for tenderness."
+
+The final pancakes rose like soft golden pillows. They jiggled when the plate moved. They looked like the café photos. Dad ate four and made a speech about being proud. Mom took pictures the way other parents photograph graduations.
+
+Our conclusion notebook, official record of the Pancake Project, ends like this:
+
+"Fluffy pancakes need: separated eggs, beaten whites, low heat, a lid, yogurt, and patience. Mostly patience. Failure data from Sundays one through three was necessary for Sunday four. Therefore, bad pancakes are not failures. They are research."
+
+Next project: the perfect onigiri.
+
+The notebook is ready.`,
+  },
+  {
+    id: 196, level: 2,
+    title: "A Town Without Shutters",
+    emoji: "🏚️",
+    genre: "社会",
+    words: 400,
+    desc: "商店街の空き店舗を見つめる中学生の視点。地域の変化を考える。",
+    text: `My grandfather and I walk through the old shopping street every Sunday morning, on the way to his favorite coffee shop. Lately, the walk has become a kind of history lesson — though not a happy one.
+
+"That was the toy store," he says, nodding at a gray metal shutter. "That one, the fish shop. Fresh fish, lined up on ice every morning at six." Another shutter. "Shoes. The owner could guess your size by looking at you walk."
+
+Shutter, shutter, shutter. Of the forty shops that lined this street when my father was a boy, eleven remain open. The rest are sealed behind metal shutters, some painted with cheerful murals that somehow make it sadder. People call streets like ours "shutter streets," and they exist all over Japan.
+
+I asked Grandfather what happened. He held up fingers, counting causes like a teacher.
+
+"One: the big shopping mall on the highway. Everything in one building, free parking, open until ten. Two: shopping on the internet — your father buys even his shoes by phone now. Three: we got old. The shop owners' children moved to cities and chose different lives. You cannot blame them. Standing in a shop twelve hours a day is hard, and the mall pays salaries with holidays."
+
+At the coffee shop — survivor number eleven, run by a woman younger than my parents — I asked why some shops still lived. The owner overheard and joined us, which is exactly the kind of thing that happens in small shops and never in malls.
+
+"The survivors all changed," she said. "The rice shop delivers to old people's houses now and checks on them while he's there. The flower shop teaches classes. I do coffee, but also this—" she gestured at the walls, hung with local children's art, "—a place to sit and meet. A mall sells things. We sell things plus something else. The something else is why we are alive."
+
+Walking home, Grandfather was quiet for a while.
+
+Then he said: "When a shop closes, the town loses a room from its house. The street is still there, but you cannot live in it the same way."
+
+I think about that now whenever my family chooses where to buy something.
+
+A few hundred yen cheaper at the mall.
+
+But the toy store shutter never opens again.
+
+Some prices are not written on the tag.`,
   }
 );

@@ -718,5 +718,683 @@ Grandpa put the old camera in my hands. It was heavy.
 "Lesson one," he said, smiling. "Find something you love."
 
 I pointed the camera at him. Click.`,
+  },
+  {
+    id: 157, level: 1,
+    title: "The Lost Key",
+    emoji: "🔑",
+    genre: "物語",
+    words: 300,
+    desc: "鍵をなくした少年の一日。探し物の表現と安心の結末。",
+    text: `After school, I walked home with my friend. We talked about the soccer game. I was happy.
+
+But at my front door, I stopped. I put my hand in my pocket. No key. I checked my other pocket. No key. I checked my school bag. I took everything out — books, pencils, my lunch box. No key!
+
+My heart went cold. My mother works until six o'clock. I could not get into my house.
+
+"Think," I said to myself. "Where did I use the key last?"
+
+This morning, I locked the door. Then I put the key in my pocket. Then I walked to school. Then... the park! At lunch time, we played in the park next to school. I did a handstand on the grass. Maybe the key fell out then!
+
+I ran back to the park. I looked at the grass near the trees. I walked slowly with my head down. Green grass, brown leaves, a candy paper... no key.
+
+Then I saw the bench. An old man was sitting there with his small dog.
+
+"Excuse me," I said. "Did you see a key? I lost my house key."
+
+The old man smiled. "A key with a blue strap?"
+
+"Yes! That's mine!"
+
+"My dog found it under the bench," he said. "I gave it to the flower shop next to the park. They keep lost things."
+
+I ran to the flower shop. The shop lady held up my key. "Is this yours?"
+
+"Yes! Thank you so much!"
+
+I walked home holding my key very tightly. The old man, his dog, the flower shop lady — three helpers in one day.
+
+Now my key has a new home. It is on a chain inside my bag. It will never travel alone again.`,
+  },
+  {
+    id: 158, level: 1,
+    title: "Curry Night",
+    emoji: "🍛",
+    genre: "日常",
+    words: 295,
+    desc: "家族のカレーの日を描く話。料理と家族の習慣の表現。",
+    text: `Friday is curry night at my house. It is our family rule. Every Friday, we eat curry and rice for dinner. This rule is older than me! My parents started it before I was born.
+
+My father makes the curry. It is his special job. He cannot cook many things, but his curry is wonderful. He starts cooking at five o'clock. First, he cuts the onions, carrots, and potatoes. Then he cooks the meat. The good smell fills the whole house. My stomach always starts to make noise.
+
+My job is the rice. I wash it three times and put it in the rice cooker. My little sister's job is setting the table. She puts out the big curry plates and the spoons.
+
+Our curry has a secret. My father puts a little chocolate in it! He says, "One small piece. That is the magic." I did not believe him at first. But it is true. The chocolate makes the curry taste deep and a little sweet.
+
+We all sit down at seven. My father says, "Okay, how is it this week?" He asks every Friday. And every Friday we say, "Delicious!" He smiles like it is the first time.
+
+Sometimes we change the curry. In summer, we add tomatoes. In winter, my father makes it more spicy. Once he added apples. That was a good week. Once he added too much spice. My sister drank three glasses of milk. That was a funny week.
+
+Last Friday, my father was sick. So I made the curry for the first time. I cut the vegetables. I cooked the meat. And yes — I added one piece of chocolate.
+
+My father ate it in bed. "Perfect," he said. "Now you know the magic."`,
+  },
+  {
+    id: 159, level: 1,
+    title: "The Library Card",
+    emoji: "🪪",
+    genre: "日常",
+    words: 290,
+    desc: "初めて図書館カードを作る話。図書館の使い方と読書の楽しみ。",
+    text: `Yesterday, I got my first library card. It is small, green, and has my name on it in big letters. I am very proud of it.
+
+The town library is near the station. It is a big building with glass doors. My mother took me there on Saturday morning.
+
+A kind woman at the desk helped me. "Is this your first card?" she asked.
+
+"Yes," I said.
+
+"Welcome to the library!" She gave me a small paper. I wrote my name and address. Then she made my card with a machine. It took only five minutes.
+
+"You can borrow ten books for two weeks," she said. "Enjoy!"
+
+Ten books! I could not believe it. All these books, and they are free!
+
+I walked between the tall bookshelves. There were so many books. Picture books, story books, books about animals, space, sports, and cooking. Where do I start?
+
+First, I chose a book about sharks. I love sharks. Then I found a mystery story about a boy detective. Then a book about how to draw manga. Then a funny story about a talking cat.
+
+I wanted more, but my bag was getting heavy. I took four books to the desk. The woman scanned my new card. Beep, beep, beep, beep.
+
+"Two weeks," she smiled. "Take care of them."
+
+At home, I read the shark book in one day. Did you know? Sharks lived before the dinosaurs! I told everyone in my family. Three times.
+
+Next Saturday, I will go back. I will return my books and borrow new ones. Maybe six this time.
+
+A library card is a small ticket. But it opens a very big door.`,
+  },
+  {
+    id: 160, level: 1,
+    title: "Morning Radio Exercises",
+    emoji: "📻",
+    genre: "日常",
+    words: 295,
+    desc: "夏休みのラジオ体操を描く話。早起きと地域の交流。",
+    text: `In summer vacation, we have radio exercises every morning. It is a Japanese tradition. We meet in the park at six thirty and exercise together with the radio music.
+
+I will be honest. I do not like waking up early. My bed is soft and my dreams are good. When my alarm rings at six fifteen, I want to cry a little.
+
+But I get up. Why? Two reasons.
+
+First, the stamp card. Every morning, the leader stamps my card. If I get a stamp every day, I get a prize at the end of summer. Last year, the prize was a notebook and pencils. This year, I want a perfect card.
+
+Second, my friends are there. Ken, Sora, and Miki come every morning. After the exercises, we sometimes play for thirty minutes before breakfast. The morning park is cool and quiet. It is the best time to play in hot summer.
+
+The exercises are simple. We stretch our arms. We bend. We jump. We turn. The radio music is old — my grandfather knows it too! He did the same exercises when he was a boy. The same music, sixty years ago. That is amazing.
+
+Many people come to the park. Children, mothers, fathers, and many old people. One grandmother is eighty-eight years old. She comes every single morning. She is small, but her exercises are perfect. "Moving every day is my medicine," she says.
+
+On the last day of summer, I got my prize. My card had a stamp for every day. A perfect card!
+
+But walking home, I thought about it. The notebook was nice. But the real prize was different: cool mornings, my friends, and the eighty-eight-year-old champion.
+
+Maybe I will wake up early next summer too.`,
+  },
+  {
+    id: 161, level: 1,
+    title: "A Gift for Mom",
+    emoji: "🎁",
+    genre: "物語",
+    words: 300,
+    desc: "母の誕生日プレゼントを選ぶ話。買い物とお金の計算。",
+    text: `Next Sunday is my mother's birthday. I want to give her a present. But I have a problem: I only have 800 yen.
+
+I thought about it for three days. What does Mom like? She likes flowers. She likes tea. She likes sleeping on Sundays. I cannot buy sleep, so I went to the shopping street with my 800 yen.
+
+First, I went to the flower shop. The roses were beautiful, but one rose was 400 yen. A bunch was 2,000 yen. Too expensive!
+
+Next, I looked at the tea shop. There was nice tea from other countries. The small box was 1,200 yen. Also too expensive.
+
+I was sad. I sat on the bench in front of the bakery and thought. My money was not enough for a good present.
+
+Then the bakery door opened, and a sweet smell came out. I remembered something. Every Sunday morning, Mom says the same thing: "I want to drink coffee and eat something sweet, slowly, with no jobs to do."
+
+I went into the bakery. I bought two of her favorite chocolate croissants. 360 yen. Then I went to the flower shop and bought one small pink flower. Not a rose — but pretty. 200 yen. Total: 560 yen. I still had money left!
+
+On Sunday morning, I woke up early. I made coffee — I know how, it is easy. I put the croissants on a nice plate. I put the flower in a small glass. I carried everything to her room.
+
+"Happy birthday! Breakfast in bed!"
+
+My mother sat up and looked at the tray. Then she looked at me. Her eyes became wet.
+
+"This is the best present," she said.
+
+It cost 560 yen. But Mom said it was the best.
+
+I think presents are strange and wonderful.`,
+  },
+  {
+    id: 162, level: 1,
+    title: "The Rainy Race",
+    emoji: "🏁",
+    genre: "学校",
+    words: 290,
+    desc: "雨で延期になった徒競走の話。期待と気持ちの切り替え。",
+    text: `Today was the day of the big race. Our school has a running event every October. I practiced for one month. I ran every evening with my father. I was ready.
+
+But when I woke up, I heard a sound on the window. Rain.
+
+I ran to the window. The sky was dark gray. The rain was strong. The school ground was full of water puddles.
+
+At breakfast, the phone rang. It was the school message: "Today's sports event is moved to next week."
+
+Next week! I put my head on the table. All my practice. All my excitement. I was like a balloon with no air.
+
+My father sat next to me. "I know," he said. "It's disappointing."
+
+"I was ready TODAY," I said.
+
+"Then you will be ready next week too," he said. "Strength doesn't disappear in one week. But you know what disappears? This rainy day. Let's not waste it."
+
+"What can we do in the rain?"
+
+He smiled. "Pancakes first. Then we watch running videos. The fastest runners in the world. We can study them."
+
+We made pancakes — big, messy, delicious ones. Then we watched the great runners on TV. My father showed me their arms and legs. "Look. Relaxed face. Strong arms. They don't fight the air."
+
+In the evening, the rain stopped. We went out and practiced starting. Just starts, twenty times. My start became faster.
+
+The next Saturday was sunny and cool. The race began. My start was perfect. I ran with a relaxed face and strong arms.
+
+Second place! My best ever!
+
+The rain took my race day. But it gave me pancakes, a lesson, and a better start.
+
+Not a bad trade.`,
+  },
+  {
+    id: 163, level: 1,
+    title: "My Town's Festival",
+    emoji: "🏮",
+    genre: "文化",
+    words: 300,
+    desc: "夏祭りの夜を描く話。屋台・浴衣・花火の夏の風物詩。",
+    text: `Every August, my town has a summer festival. It is the biggest night of the year. This year, I went with my family and my best friend, Yuki.
+
+I wore my blue yukata. Yuki wore a red one. Walking in a yukata is a little difficult, but it feels special. Like the night itself is different.
+
+The festival street was full of light and people. Paper lanterns hung everywhere — red, orange, and yellow. There were food stands on both sides of the street. The smells were amazing: grilled chicken, fried noodles, sweet pancakes, and chocolate bananas.
+
+First, we ate fried noodles. Then we shared shaved ice. I chose melon flavor. Yuki chose strawberry. Our tongues turned green and red. We laughed at each other.
+
+Next, we played the goldfish game. You catch goldfish with a paper net. The net is very thin and breaks easily. Yuki caught two goldfish! I caught zero. The game man felt sorry for me and gave me one goldfish anyway. I named him Lucky.
+
+Then we heard the drums. The taiko drummers stood on a high stage. Their arms moved fast. The sound was so big that I felt it in my chest. Don! Don! Don! Everyone gathered to watch. The drummers' faces were serious and shining with sweat. It was beautiful.
+
+At nine o'clock, the fireworks started. We sat on the grass by the river. The fireworks went up with a whistle and opened like giant flowers. Red, gold, blue, purple. The big ones made the sky bright like daytime. Everyone said "Ooooh!" together.
+
+The last firework was the biggest. Gold light fell slowly, like rain.
+
+Walking home, Lucky's bag swung in my hand. Summer has many days. But festival night is the heart of summer.`,
+  },
+  {
+    id: 164, level: 1,
+    title: "The Seed in the Cup",
+    emoji: "🫘",
+    genre: "学校",
+    words: 290,
+    desc: "理科の授業で豆を育てる観察日記。成長の記録と発見。",
+    text: `In science class, our teacher gave each student one bean and a paper cup. "Grow it," she said. "Watch it every day. Write what you see."
+
+I put soil in my cup. I pushed my bean down, about two centimeters. I gave it a little water. Then I wrote in my notebook: "Day 1. I planted my bean. Nothing to see. Just dirt."
+
+Day 2: Nothing. Day 3: Nothing. Day 4: Still nothing. My notebook was boring. "Dirt. Dirt. More dirt."
+
+My friend Taro's bean came up on Day 5. A little green loop, like a tiny snake. "Look!" he said. Everyone came to see his cup. I looked at my dirt cup. Nothing. I was a little jealous.
+
+Day 6: Nothing. I asked my teacher, "Is my bean dead?"
+
+She smiled. "Beans have their own speed. Yours is working under the soil. You just cannot see the work."
+
+Day 8: Something! A small crack in the soil. Something green under it!
+
+Day 9: My bean came up! A green loop, then two baby leaves. They looked soft and new. I wrote three full pages in my notebook that day. I drew pictures. I measured: three centimeters.
+
+After that, my bean grew fast. Day 12: seven centimeters. Day 15: twelve centimeters, four leaves. Day 20: taller than my pencil!
+
+Now my bean plant is on the classroom window with everyone's plants. Taro's plant and my plant are the same size. The same! His started early. Mine started late. But now you cannot tell the difference.
+
+On the last page of my notebook, our teacher asked us to write one thing we learned.
+
+I wrote: "Slow starts are still starts."
+
+She gave me a flower stamp.`,
+  },
+  {
+    id: 165, level: 1,
+    title: "Snow Country Grandma",
+    emoji: "🏔️",
+    genre: "日常",
+    words: 295,
+    desc: "雪国の祖母の暮らしを訪ねる話。冬の生活の知恵。",
+    text: `My grandmother lives in snow country, in the mountains. In winter, the snow there is taller than my father! This January, we visited her for three days.
+
+The train ride was like magic. First, the world was brown and gray. Then we went through a long tunnel. When we came out — everything was white! White fields, white roofs, white trees. I pressed my face to the window.
+
+Grandma met us at the small station. She wore a thick coat and big boots. "Welcome to the snow!" she laughed.
+
+Her house was warm inside. There was a kotatsu — a low table with a heater and a blanket. I put my legs under it and did not want to move. There were mikan oranges on the table. Grandma's house rule: eat mikan under the kotatsu. Best rule ever.
+
+But Grandma does not just sit in winter. She works! Every morning, she clears the snow in front of her door. I helped her. The snow shovel was heavy. After ten minutes, I was hot inside my coat. Snow work is hard work. Grandma is seventy-five, and she does this every day.
+
+"Grandma, you are so strong," I said.
+
+"The snow keeps me young," she laughed. "It gives me exercise every morning. No gym needed!"
+
+She taught me snow country tricks. Walk like a penguin on ice — small steps. Put the vegetables in the snow — it is a natural refrigerator! Dry your boots by the heater at night, always.
+
+On the last night, snow fell again. We watched it from the window. It fell quietly, slowly, like white feathers.
+
+"Isn't it hard, Grandma? All this snow?"
+
+She drank her tea. "It's hard. And it's beautiful. Most good things are both."`,
+  },
+  {
+    id: 166, level: 1,
+    title: "The Class Pet",
+    emoji: "🐹",
+    genre: "学校",
+    words: 290,
+    desc: "クラスで飼うハムスターの話。世話と命への責任。",
+    text: `Our class has a pet. It is a hamster. His name is Mochi. He is small, round, and golden brown. His house is a cage near the window.
+
+Mochi came to our class in spring. Our teacher said, "He is everyone's pet. So he is everyone's job."
+
+We made a care schedule. Every day, two students take care of Mochi. They give him food and clean water. They clean his cage. They check that he is healthy.
+
+Mochi sleeps all day. Hamsters are night animals. While we study math, he sleeps in his little wooden house. Sometimes we can see only his round back. But at cleaning time, he wakes up. He stretches and yawns — a tiny, tiny yawn. The whole class says "Cute!" together. Every time.
+
+His favorite food is sunflower seeds. He holds a seed with both hands and eats fast. His cheeks can hold many seeds! Once, he put five seeds in his cheeks. His face became a balloon. We laughed, but quietly. Loud sounds scare him.
+
+In summer vacation, Mochi needed care too. Students took turns. He stayed at a different house each week. He stayed at my house in August! My week with Mochi was wonderful. At night, he ran on his wheel. Kara-kara-kara. The small sound helped me sleep.
+
+One Monday in autumn, Mochi was not eating. He moved slowly. Everyone was worried. Our teacher took him to the animal doctor. The class was quiet all day.
+
+Good news came: Mochi had a small cold. He got medicine and rested. One week later, he was running on his wheel again. The class cheered — quietly.
+
+Mochi is small. But he taught our class a big thing: a life needs care every single day.`,
+  },
+  {
+    id: 167, level: 1,
+    title: "First Train Ride Alone",
+    emoji: "🚉",
+    genre: "物語",
+    words: 300,
+    desc: "初めて一人で電車に乗る話。ドキドキと小さな成長。",
+    text: `Today I rode the train alone for the first time. My mission: go three stations to my piano lesson. My mother always takes me, but today she was busy.
+
+"You can do it," she said. "You know the way. We have done it together fifty times."
+
+Fifty times with Mom. Zero times alone. That is very different!
+
+She gave me my train card and a phone. "Call me when you arrive. And remember: Aoba Station. Third stop."
+
+I walked to the station. My heart was beating fast. I touched my card at the gate. Beep! The gate opened. Okay. Step one, complete.
+
+On the platform, I waited behind the yellow line. The sign said the train comes at 3:42. I checked the clock: 3:39. I checked again: 3:40. Time was slow today.
+
+The train came. I got on and stood by the door. I held the pole tightly. Inside, everything was normal. People read phones. A baby slept. Nobody knew it was my big day.
+
+First stop: Sakura Station. Not mine. Second stop: Midori Station. Not mine. I counted with my fingers. Next one!
+
+"Next stop: Aoba. Aoba Station."
+
+The announcement! My station! I got off carefully. I touched my card at the gate. Beep! I was out. I did it!
+
+I called Mom. "I arrived! It was easy!"
+
+She laughed. "I know. I knew you could."
+
+Then she said something surprising: "I watched you walk to the station from the window. Your back looked bigger than yesterday."
+
+My back? Bigger? Backs do not grow in one day.
+
+But walking to my piano lesson, I stood a little taller. Maybe that is what she meant.
+
+Three stations. Eleven minutes. A small trip.
+
+But today, my world got bigger.`,
+  },
+  {
+    id: 168, level: 1,
+    title: "The Picture Diary",
+    emoji: "🖍️",
+    genre: "学校",
+    words: 285,
+    desc: "夏休みの絵日記の宿題をめぐる話。記録することの楽しさ。",
+    text: `Every summer vacation, we have the same homework: a picture diary. Draw one picture every day and write three sentences. Easy? No! It is the hardest homework, because it never ends. Every. Single. Day.
+
+In the first week, I was a good student. "July 21: I went to the pool. The water was cold. It was fun." Nice picture of the pool. Done.
+
+In the second week, I became lazy. My pictures became simple. My sentences became short. "July 29: I ate watermelon. It was sweet. The end."
+
+In the third week — disaster. I forgot the diary for five days! Five empty pages. I could not remember anything. What did I eat on August 3? What did I do? My memory was empty, like the pages.
+
+My grandfather visited that day. He saw my empty diary and laughed.
+
+"You know why teachers give this homework?" he asked.
+
+"To make summer hard?"
+
+"No. Because ordinary days disappear." He tapped my diary. "Big days — festivals, trips — you remember them. But normal days? Gone forever. Unless you catch them on paper."
+
+That gave me an idea. I started writing about small things. "August 8: A cat slept on our wall all day. It changed position three times. I checked every hour."
+
+"August 12: My sister's tooth fell out during dinner. She put it in a tissue like a treasure."
+
+Small things. Funny things. Things I would forget.
+
+Now it is winter. Yesterday, I found my summer diary in my desk. I read the whole thing. The cat on the wall! My sister's tooth! I laughed and remembered everything.
+
+Grandfather was right. My diary caught the days before they could escape.`,
+  },
+  {
+    id: 169, level: 1,
+    title: "Soup for a Sick Friend",
+    emoji: "🍲",
+    genre: "物語",
+    words: 290,
+    desc: "風邪をひいた友達を見舞う話。友情と思いやりの表現。",
+    text: `My best friend Hana was absent from school. One day. Two days. Three days. The teacher said she had a bad cold.
+
+School was boring without her. At lunch, her empty desk looked sad. Nobody laughed at my jokes the right way. Hana always laughs the right way.
+
+After the third day, I asked my mother, "Can we visit Hana? I want to bring her something."
+
+"Good idea," Mom said. "When I am sick, I always want soup. Shall we make some?"
+
+We made vegetable soup together. I cut the carrots into small hearts. It took a long time, but hearts make soup better. Everyone knows this. We put the soup in a special pot that keeps it warm.
+
+I also made a card. I drew our cat, our classroom, and the park where we play. I wrote: "School is boring without you. Get well soon. Lunch is lonely. Your friend forever."
+
+We walked to Hana's house. Her mother opened the door. "Oh! How kind!" she said.
+
+Hana could not come to the door — colds can travel to other people. But I heard her voice from her room.
+
+"Is that you?"
+
+"It's me! We brought soup! The carrots are hearts!"
+
+I heard a small, scratchy laugh. "Hearts? Really?"
+
+"Really! Get well fast. My jokes are dying alone at school."
+
+Another laugh, then a cough, then a laugh again.
+
+Two days later, Hana came back to school. She returned the pot to me. Inside was a thank-you note: "Best soup ever. The heart carrots worked. Also, your jokes are safe now."
+
+At lunch, I told my joke from Monday. She laughed the right way.
+
+Everything was normal again. Normal is wonderful.`,
+  },
+  {
+    id: 170, level: 1,
+    title: "The Star Watchers",
+    emoji: "🔭",
+    genre: "日常",
+    words: 295,
+    desc: "流星群を見る夜の話。夜空の観察と家族の時間。",
+    text: `"Tonight is special," my father said at dinner. "The sky will have shooting stars. Many of them. Want to watch?"
+
+"Yes!" I said. "When?"
+
+"After midnight."
+
+After midnight! On a school night? My mother looked at my father. My father made a funny face, like a child asking for candy. Mom laughed. "Okay. Just this once. Science is important."
+
+I tried to sleep early, but I was too excited. At eleven thirty, Dad woke me up. We put on warm jackets — autumn nights are cold. We took blankets, hot tea, and chocolate. Mom came too, with sleepy eyes.
+
+We climbed to the roof balcony. The town was dark and quiet. Most windows had no light. It felt like we were the only people awake in the world.
+
+We lay down on the blankets and looked up. So many stars! In the dark, my eyes slowly changed. More and more stars appeared. Small ones, very small ones, and the cloudy river of stars across the middle.
+
+"Now we wait," Dad said. "Eyes open. No phones."
+
+We waited. Five minutes. Ten minutes. My neck was getting cold. Then —
+
+"There!" Mom shouted.
+
+A line of light crossed the sky. Fast, bright, and gone in one second. A shooting star! A real one!
+
+"Did you wish?" Dad asked.
+
+"It was too fast!"
+
+"Then get ready for the next one."
+
+We saw eight shooting stars that night. By the fifth one, I could wish fast. By the eighth, my eyes were closing by themselves.
+
+I do not remember walking back to bed.
+
+At breakfast, I was sleepy. But I was also different. The sky does a show every night.
+
+Most people just forget to look up.`,
+  },
+  {
+    id: 171, level: 1,
+    title: "The Broken Umbrella",
+    emoji: "🌬️",
+    genre: "物語",
+    words: 285,
+    desc: "強風の日の出来事を描くユーモラスな話。失敗と笑い。",
+    text: `Today the weather was crazy. Rain plus strong wind. The worst team in weather history.
+
+I took my umbrella to school. It was my favorite one — blue with white stars. On the way, the wind was already strong. My umbrella danced left and right. I held it with two hands.
+
+At the corner near the bakery, it happened. A huge wind came. WHOOSH! My umbrella turned inside out! It looked like a big blue flower. A broken, sad, blue flower.
+
+I tried to fix it. The wind pushed me. I pushed back. The umbrella made scary sounds. Bend! Snap! One metal arm broke. Then another.
+
+An old lady passed me. Her umbrella was also inside out! We looked at each other. She laughed. I laughed. The wind laughed loudest of all.
+
+I gave up. I closed my poor broken umbrella and ran to school in the rain. I arrived wet like a fish.
+
+But here is the funny part. At school, the umbrella stand was full of broken umbrellas! Inside-out ones, bent ones, completely dead ones. Everyone had a wind story.
+
+"Mine flew into a tree!"
+
+"Mine broke in three seconds!"
+
+"My ENTIRE umbrella flew away! Goodbye, umbrella!"
+
+Our teacher came in. Her hair was wild. Her umbrella? Also broken. The whole class laughed together, wet and happy.
+
+She wrote on the board: "Today's lesson — nature is strong."
+
+That evening, my father fixed two arms of my star umbrella. It is a little crooked now. It leans to the left like a tired old man.
+
+But I will keep it. We survived the great wind together.
+
+A little crooked is okay.`,
+  },
+  {
+    id: 172, level: 1,
+    title: "Three Coins at the Shrine",
+    emoji: "⛩️",
+    genre: "文化",
+    words: 290,
+    desc: "初詣での家族の習慣を描く話。新年の願いごと。",
+    text: `On January first, my family visits the shrine. Everyone in Japan calls it "hatsumode" — the first visit of the year. It is my favorite New Year tradition.
+
+This year, we woke up early and wore warm clothes. The shrine is on a small hill in our town. Many people were walking up the steps with us. Everyone's breath was white in the cold air.
+
+The line was long. We waited about thirty minutes. But waiting is part of it. We talked about the new year. Dad wants to exercise more. Mom wants to learn the guitar. My sister, who is four, wants "a dinosaur." We did not ask more questions about that.
+
+Finally, our turn came. I threw my five-yen coin into the big wooden box. Five yen is good luck — my grandmother taught me that. Then: bow two times, clap two times, make a wish quietly, bow one time.
+
+My wish? Secret. (But it is about the swimming test in February.)
+
+After the prayer, we bought lucky charms. I chose a small blue one for "good study." Mom bought a white one for "family health." We also picked fortune papers. Mine said "Small Luck." My father got "Great Luck" and danced a little. Embarrassing.
+
+The best part came last: hot amazake, sweet rice drink, near the shrine gate. We drank it standing together, watching people climb the steps. My hands and stomach became warm.
+
+"Same time next year?" Dad asked.
+
+"Same time next year," we said.
+
+Mountains of homework will come. Tests will come. Some hard days will come too.
+
+But standing there with my warm cup, the new year felt friendly.
+
+Three hundred sixty-five fresh days. All of them, still unopened.`,
+  },
+  {
+    id: 173, level: 1,
+    title: "My Tooth and the Roof",
+    emoji: "🦷",
+    genre: "文化",
+    words: 285,
+    desc: "乳歯が抜けた日の話。日本の歯の習慣と世界の違い。",
+    text: `Yesterday, my tooth fell out during lunch. It was a bottom tooth, my sixth one. It fell into my rice. I almost ate my own tooth!
+
+"It's out! It's finally out!" I shouted. That tooth had been loose for a week. I touched it every day with my tongue. Wiggle, wiggle. Now my mouth has a new window.
+
+In Japan, we have a tradition for baby teeth. My grandfather taught me. A bottom tooth — you throw it onto the roof! A top tooth — you throw it under the house. Why? So the new tooth grows in the right direction. Up teeth grow toward the roof. Down teeth grow toward the ground.
+
+After lunch, my grandfather and I went to the garden. I held my little tooth.
+
+"Throw it high!" Grandpa said. "And say: Grow strong, new tooth!"
+
+I threw it as high as I could. "Grow strong, new tooth!" The tiny white tooth flew up, up — and landed on the roof. Perfect throw!
+
+Grandpa clapped. "Now the new one will come in straight and strong."
+
+At school today, I told my friend Lisa about it. Lisa lived in America before. She was surprised.
+
+"In America, we put the tooth under the pillow," she said. "The Tooth Fairy comes at night. She takes the tooth and leaves money!"
+
+Money for teeth?! Now I was surprised. "How much money?"
+
+"One dollar, usually."
+
+Hmm. The roof gives me a strong tooth. The fairy gives Lisa one dollar.
+
+"Different countries, different teeth magic," Lisa laughed.
+
+That night I checked the roof from the garden. My tooth is up there now, working on its magic.
+
+Grow strong, new tooth. No pressure. But please be straight.`,
+  },
+  {
+    id: 174, level: 1,
+    title: "The Quiet Game Master",
+    emoji: "♟️",
+    genre: "物語",
+    words: 295,
+    desc: "無口な転校生と将棋で仲良くなる話。言葉以外のコミュニケーション。",
+    text: `A new student came to our class in May. His name was Itsuki. He was very quiet. He answered questions with one word: "Yes." "No." "Okay." At lunch, he ate alone and read a book.
+
+Some students said, "He's a little strange." But I was just curious. His book was about shogi — Japanese chess. I play shogi with my grandfather every weekend!
+
+One rainy lunch break, we could not go outside. I took the classroom shogi board and put it on Itsuki's desk.
+
+"Do you play?" I asked.
+
+He looked at the board. Then at me. Then he nodded.
+
+We set up the pieces. The game began.
+
+And the quiet boy disappeared. A different Itsuki appeared. His eyes became sharp. His hands moved fast and sure. Piece by piece, he took control of the board. He was not just good. He was very, very good.
+
+He won in fifteen minutes. My grandfather never beats me that fast!
+
+"One more," I said.
+
+A tiny smile. "Okay."
+
+He won again. And again. But each game, he started showing me things. He pointed at a square: bad move. He pointed at another: better. No long words. Just fingers and the board. It was like a language without sounds.
+
+Now we play every lunch break. Other kids come to watch. Daiki joined. Then Mio. Itsuki teaches everyone the same way — point, nod, tiny smile.
+
+Last week, I asked him, "Why do you like shogi?"
+
+He thought for a moment. Then he said the longest sentence I ever heard from him:
+
+"The pieces say everything. So I don't have to."
+
+Itsuki is still the quiet kid in class.
+
+But on the shogi board, he is the loudest person I know.`,
+  },
+  {
+    id: 175, level: 1,
+    title: "One Hundred Points",
+    emoji: "💯",
+    genre: "学校",
+    words: 290,
+    desc: "初めて満点を取った日の話。努力の積み重ねと喜び。",
+    text: `I have never gotten one hundred points on a test. Ninety-five, yes. Ninety-eight once — I still remember that sad little minus two. But never the perfect one hundred.
+
+My friend Rio gets one hundred sometimes. When she does, the teacher draws a flower next to the number. I wanted that flower. I wanted it so much.
+
+The next kanji test was in two weeks. Fifty kanji words. I made a plan: ten words every day, then review.
+
+Every evening, I practiced at my desk. Write, check, write again. My notebook became fat with kanji. Some words were easy. Some were monsters. The word for "weather" kept losing its parts. The word for "school trip" was a whole puzzle.
+
+My little brother quizzed me at breakfast. My mother quizzed me in the bath. Even Dad joined: "Spell 'library'!" he said at dinner. "Wrong language, Dad. It's kanji." "Oh. Then draw 'library'!"
+
+Test day came. My pencil was sharp. My heart was loud. The teacher passed out the papers.
+
+I knew the first word. And the second. And the third! My hand moved smoothly. Only one word made me stop — number 38, "weather." My old enemy. I closed my eyes. I saw my fat notebook. The parts came back to me. I wrote it carefully.
+
+Three days later, the teacher returned our tests. She put mine on my desk with a smile.
+
+One hundred. And a flower.
+
+I looked at it for a long time. Rio leaned over. "You did it!" she said, happy for me.
+
+I took the test home. Mom put it on the refrigerator, in the center.
+
+It is still there. My one hundred. My flower.
+
+My fat notebook made them both.`,
+  },
+  {
+    id: 176, level: 1,
+    title: "The Best Seat in the Class",
+    emoji: "🪟",
+    genre: "日常",
+    words: 285,
+    desc: "席替えで窓際になった話。日常の小さな発見と幸せ。",
+    text: `Every month, our class changes seats. We pick numbers from a box. Your number is your new seat. It is like a lottery.
+
+Everyone wants the back seats. Far from the teacher's eyes! Close to friends! The back is the dream.
+
+This month, I picked number 7. The worst number. Front row, next to the window. Far from my friends. Right in front of the teacher's desk.
+
+"Bad luck," my friend Daiki said. He got number 23, back corner. The golden seat.
+
+For two days, I was grumpy. The teacher could see my notebook. I could not whisper to anyone. Front row life was lonely.
+
+But on the third day, I noticed something.
+
+Morning sunlight came through my window. It made a warm square on my desk. In math class, I felt like a cat sitting in the sun.
+
+On the fourth day, I noticed more. From my window, I could see the school garden. Sparrows came to the flowers every morning at nine. A fat one always came first. I named him Boss.
+
+On the fifth day, it rained. Raindrops raced down my window. I picked one raindrop and cheered for it quietly. (It lost.)
+
+Then I discovered the biggest secret: cherry tree branches reach near my window. In spring, I will have flowers right outside. Front row, window seat — the best view of spring in the whole class!
+
+Yesterday, Daiki complained, "The back corner is cold. And I can't see the board well."
+
+I just smiled and looked at Boss the sparrow eating breakfast.
+
+Next month, the lottery will move me again.
+
+But now I know a secret: there are no bad seats.
+
+Just seats you haven't explored yet.`,
   }
 );
