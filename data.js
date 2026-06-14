@@ -3,32 +3,32 @@
 
 const LEVELS = {
   1: {
-    label: "Level 1 — 入門",
-    desc: "中学1〜2年レベル。基本的な単語と短い文。1〜2語の文も多く、絵本・日常会話に近い内容。",
+    label: "Level 1 — やさしい",
+    desc: "ごく短い文と基本的な単語だけ。1文が短く、絵本や日常会話に近い内容。辞書なしでスラスラ読めるのが目安です。",
     color: "var(--lv1)",
     bg: "var(--lv1-bg)",
   },
   2: {
-    label: "Level 2 — 初級",
-    desc: "中学2〜3年レベル。短めの段落と身近なトピック。過去形・未来形も登場します。",
+    label: "Level 2 — すこしやさしい",
+    desc: "短い段落と身近な話題。基本の単語が中心で、少しまとまった物語やエッセイを楽しめます。",
     color: "var(--lv2)",
     bg: "var(--lv2-bg)",
   },
   3: {
-    label: "Level 3 — 中級",
-    desc: "中学3年〜高校1年レベル。関係代名詞・接続詞を含む複文。一般的な社会・科学トピック。",
+    label: "Level 3 — ふつう",
+    desc: "やや長めの文章と幅広い話題。接続詞でつながる文が増え、物語や説明文をまとまった量で読めます。",
     color: "var(--lv3)",
     bg: "var(--lv3-bg)",
   },
   4: {
-    label: "Level 4 — 上級",
-    desc: "高校2〜3年レベル。論説・説明文・エッセイ。語彙と構文が大学入試レベルに近い。",
+    label: "Level 4 — ややむずかしい",
+    desc: "論説・説明文・エッセイが中心。抽象的な内容や長めの文が増え、じっくり読む段階です。",
     color: "var(--lv4)",
     bg: "var(--lv4-bg)",
   },
   5: {
-    label: "Level 5 — 最上級",
-    desc: "大学入試〜大学レベル。抽象概念・学術的内容・英字新聞・文学作品に近い難度。",
+    label: "Level 5 — むずかしい",
+    desc: "抽象的・学術的な内容や文学的な文章。長く複雑な文で、英字記事や評論に近い手ごたえです。",
     color: "var(--lv5)",
     bg: "var(--lv5-bg)",
   },
@@ -478,7 +478,7 @@ Perhaps the most honest answer to the question "What is intelligence?" is that i
     emoji: "🌙",
     genre: "科学・健康",
     words: 345,
-    desc: "睡眠の科学的重要性を論じた説明文。大学入試頻出のトピックと語彙。",
+    desc: "睡眠の科学的重要性を論じた説明文。抽象的な内容と専門的な語彙を含みます。",
     text: `In contemporary society, sleep is frequently treated as a luxury rather than a necessity — something to be sacrificed when deadlines loom or social schedules overflow. This attitude, increasingly common among students and professionals alike, may be one of the most consequential mistakes we make for our health.
 
 Sleep is not a passive state. While the body rests, the brain is engaged in a cascade of essential processes. During deep sleep, the glymphatic system — a waste-clearance network unique to the brain — becomes highly active, flushing out metabolic byproducts that accumulate during waking hours. Among the substances cleared is amyloid-beta, a protein associated with Alzheimer's disease when it builds up in excess.
