@@ -1,9 +1,12 @@
 // ===== State =====
 let currentLevel = 1;
+let currentGenre = null; // null = すべて
 
 // ===== Elements =====
 const booksGrid    = document.getElementById('books-grid');
 const levelInfo    = document.getElementById('level-info');
+const genreChips   = document.getElementById('genre-chips');
+const randomBtn    = document.getElementById('random-btn');
 const overlay      = document.getElementById('modal-overlay');
 const modalClose   = document.getElementById('modal-close');
 const modalBadge   = document.getElementById('modal-level-badge');
@@ -23,9 +26,44 @@ function renderLevelInfo(level) {
   levelInfo.style.borderLeft  = `4px solid ${lv.color}`;
 }
 
+// ===== Genre helpers =====
+// Use the primary genre (before the first "・") to keep the chip list short.
+function primaryGenre(genre) {
+  return genre.split('・')[0];
+}
+
+// Books visible under the current level + genre filter.
+function getVisibleBooks() {
+  return BOOKS.filter(b =>
+    b.level === currentLevel &&
+    (currentGenre === null || primaryGenre(b.genre) === currentGenre)
+  );
+}
+
+// ===== Render genre chips =====
+function renderGenreChips(level) {
+  const genres = [...new Set(BOOKS.filter(b => b.level === level).map(b => primaryGenre(b.genre)))];
+  genreChips.innerHTML = '';
+
+  const makeChip = (label, value) => {
+    const chip = document.createElement('button');
+    chip.className = 'genre-chip' + (currentGenre === value ? ' active' : '');
+    chip.textContent = label;
+    chip.addEventListener('click', () => {
+      currentGenre = value;
+      renderGenreChips(currentLevel);
+      renderBooks(currentLevel);
+    });
+    return chip;
+  };
+
+  genreChips.appendChild(makeChip('すべて', null));
+  genres.forEach(g => genreChips.appendChild(makeChip(g, g)));
+}
+
 // ===== Render book cards =====
 function renderBooks(level) {
-  const books = BOOKS.filter(b => b.level === level);
+  const books = getVisibleBooks();
   booksGrid.innerHTML = '';
 
   books.forEach(book => {
@@ -34,7 +72,7 @@ function renderBooks(level) {
     card.innerHTML = `
       <div class="book-cover">${book.emoji}</div>
       <div class="book-body">
-        <span class="book-badge">Level ${level}</span>
+        <span class="book-badge">Level ${LEVELS[level].num}</span>
         <div class="book-title">${book.title}</div>
         <div class="book-desc">${book.desc}</div>
         <div class="book-meta">
@@ -54,9 +92,19 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     currentLevel = parseInt(btn.dataset.level);
+    currentGenre = null;
     renderLevelInfo(currentLevel);
+    renderGenreChips(currentLevel);
     renderBooks(currentLevel);
   });
+});
+
+// ===== Random pick =====
+randomBtn.addEventListener('click', () => {
+  const pool = getVisibleBooks();
+  if (pool.length === 0) return;
+  const book = pool[Math.floor(Math.random() * pool.length)];
+  openReader(book);
 });
 
 // ===== Open reader modal =====
@@ -64,7 +112,7 @@ function openReader(book) {
   const lv = LEVELS[book.level];
 
   // Set badge color dynamically
-  modalBadge.textContent = `Level ${book.level} — ${lv.label.split('—')[1].trim()}`;
+  modalBadge.textContent = lv.label;
   modalBadge.style.background = lv.bg;
   modalBadge.style.color      = lv.color;
 
@@ -151,4 +199,5 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
 
 // ===== Init =====
 renderLevelInfo(1);
+renderGenreChips(1);
 renderBooks(1);
