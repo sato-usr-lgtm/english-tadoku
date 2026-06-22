@@ -922,5 +922,418 @@ None of this romanticizes chronic, trapped boredom, which is genuinely corrosive
 Boredom is the mind knocking on its own door.
 
 Lately, nobody has been answering. It might be worth staying home for the knock.`,
+  },
+  {
+    id: 235, level: 3,
+    title: "The Clock That Ran Backwards",
+    emoji: "🕰️",
+    genre: "物語",
+    words: 320,
+    desc: "祖父の家で見つけた逆回りの時計をめぐる不思議な物語。",
+    text: `When my grandfather died, my family spent a weekend clearing out his old house. In a dusty corner of the attic, I found a wooden clock that was running backwards. Its hands moved counter-clockwise, and the numbers on its face were printed in reverse order.
+
+I assumed it was broken, but my aunt, who had grown up in that house, went pale when she saw it.
+
+"He built that himself," she said quietly. "After your grandmother passed away. He said he wanted to make time run the other way, just for one room."
+
+I held the strange clock, listening to its soft ticking. It kept perfect time — it simply counted in the wrong direction.
+
+My aunt explained that for the last ten years of his life, my grandfather had spent an hour every evening sitting alone in the attic with this clock. Nobody had understood why. The family had assumed he was just a lonely old man with an odd habit.
+
+That night, unable to sleep, I carried the clock to the attic and sat where he must have sat. I watched the hands sweep backwards. And slowly, I began to understand.
+
+Watching time appear to move in reverse did not actually turn back the years, of course. But it created a strange, peaceful feeling — a quiet reminder that although we cannot undo the past, we can choose to look toward it with love rather than regret. For one hour each day, my grandfather had not been escaping time. He had been visiting it.
+
+I brought the clock home. It sits on my desk now, ticking softly backwards while I study.
+
+My friends find it confusing and ask why I do not fix it.
+
+I tell them it is not broken. It is just remembering — and so, when I look at it, am I.`,
+  },
+  {
+    id: 236, level: 3,
+    title: "The Substitute",
+    emoji: "⚽",
+    genre: "物語",
+    words: 325,
+    desc: "万年補欠の少年が決勝で出場する、努力が報われる物語。",
+    text: `For three years, Riku sat on the bench. He was a substitute on the school soccer team — the player who trained as hard as everyone else but almost never got to play in real matches.
+
+His friends sometimes asked why he did not quit. The answer was simple: he loved the game, even from the bench. While he waited, he did something the starters rarely bothered to do. He watched. He studied how each opponent moved, which players were tired, where the gaps appeared in the final minutes.
+
+In his final year, the team reached the championship match. The score was tied with ten minutes left when the team's best striker twisted his ankle and could not continue. The coach looked down the bench, hesitated, and then called Riku's name.
+
+Riku's legs shook as he ran onto the field. But something unexpected happened. Because he had spent three years watching instead of playing, he could read the game in a way the others could not. He noticed that the opposing defender always stepped to his left when under pressure.
+
+With two minutes remaining, the ball came to Riku near the goal. The defender stepped left, exactly as Riku knew he would. Riku moved right, into the space that opened, and struck the ball into the corner of the net.
+
+The whistle blew. They had won.
+
+His teammates lifted him onto their shoulders, shouting his name — the name that had been called in real matches so few times before.
+
+Later, the coach put a hand on his shoulder. "How did you know where to run?"
+
+Riku smiled. "I've been watching that defender for ninety minutes. Actually, I've been watching everything for three years."
+
+The bench, it turned out, had not been a punishment.
+
+It had been the best seat in the stadium — and the longest, quietest lesson he ever received.`,
+  },
+  {
+    id: 237, level: 3,
+    title: "The Letter That Arrived Late",
+    emoji: "✉️",
+    genre: "物語",
+    words: 315,
+    desc: "20年遅れて届いた手紙が結ぶ、見知らぬ人どうしの縁の物語。",
+    text: `One rainy morning, a letter arrived at our house addressed to someone I had never heard of: a Mr. Tanaka, dated twenty years earlier. The envelope was yellow and soft with age. Somehow, it had been lost in the postal system for two decades before finally being delivered — to our address, which had once been Mr. Tanaka's home.
+
+My mother was about to throw it away, but I was too curious. Although it felt slightly wrong, I opened it.
+
+Inside was a letter from a young woman named Aiko. She wrote that she was sorry for the argument they had had, that she had been foolish and proud, and that if he still felt the same way, he should meet her at the train station clock on New Year's Day. She would wait until noon.
+
+The letter had been written twenty years ago. The meeting it described had happened — or failed to happen — long before I was even born.
+
+I could not stop thinking about it. Had Mr. Tanaka received an earlier copy? Had they reunited, or had this lost letter meant a lifetime of two people wondering why the other never came?
+
+With my mother's help, I searched online and found a Mr. Tanaka living two towns away. I wrote to him, explaining everything, and enclosed the original letter.
+
+A week later, he visited our house. He was an old man now, kind-eyed and quiet. When I gave him the letter, his hands trembled.
+
+"I never knew she wrote this," he said softly. "I thought she had simply stopped caring."
+
+Then he smiled — a sad, peaceful smile. "We both married other people. She lives in Osaka now. We are still friends." He paused. "I think I will call her tonight, and finally tell her I would have come."
+
+Some letters, it seems, arrive exactly when they are needed — even twenty years late.`,
+  },
+  {
+    id: 238, level: 3,
+    title: "The Painting in the Hallway",
+    emoji: "🖼️",
+    genre: "物語",
+    words: 320,
+    desc: "学校の片隅の絵に隠された秘密を解き明かすミステリー仕立ての物語。",
+    text: `In the oldest hallway of our school hung a dark, dusty painting that nobody ever looked at. It showed a quiet garden with a stone bench, painted in faded greens and browns. Students walked past it every day without a glance.
+
+I only noticed it because I was hiding from a boring assembly. Standing alone in the empty hallway, I studied the painting and realized something strange: in the corner, almost invisible under decades of dust, were tiny letters that spelled a date and a name — "For my students, M. Sato, 1962."
+
+I asked the oldest teacher about it. Her face softened.
+
+"Ah, that painting," she said. "Mr. Sato was an art teacher here long ago. He painted the school garden as it looked then. But the garden was destroyed in the 1970s when they built the new gym."
+
+I looked at the painting again. The peaceful garden in the picture no longer existed anywhere except on that dusty canvas. It was the only memory left of a place where students had once eaten lunch, read books, and fallen in love sixty years ago.
+
+That afternoon, I decided to do something. With permission from the principal, I cleaned the painting carefully and moved it to the bright main entrance, where everyone would pass it. Beside it, I placed a small card explaining its history.
+
+Within a week, something wonderful happened. Older people from the town — former students — began visiting the school just to see it. One elderly woman stood in front of it for a long time, then whispered, "I had my first kiss on that bench."
+
+The forgotten painting, which had hung unseen for decades, became the most loved object in the school.
+
+Mr. Sato had written "for my students." It had simply taken sixty years, and one bored girl skipping assembly, for his gift to finally be received.`,
+  },
+  {
+    id: 239, level: 3,
+    title: "The Boy Who Collected Silence",
+    emoji: "🔇",
+    genre: "物語",
+    words: 320,
+    desc: "音のない場所を集める少年が見つけた、静けさの価値の物語。",
+    text: `My younger brother Sora had an unusual hobby. While other children collected stamps or cards, Sora collected silence. He kept a notebook in which he recorded the quietest places he could find, along with the date and how the silence felt.
+
+"The library at 8 a.m. — soft, like cotton," one entry read. "The shrine steps after the rain — deep, like the bottom of a lake," read another.
+
+At first, my parents worried. In a world full of noise — televisions, traffic, notifications, voices — a child hunting for silence seemed strange, even lonely. But Sora was not lonely. He was, in his own quiet way, the happiest person I knew.
+
+One day I asked him why he did it. He thought for a while, which was very like him.
+
+"Everyone is always making noise," he finally said. "Talking, playing music, watching videos. But the best ideas come in the quiet parts. So I collect quiet places, and when my head is too noisy, I go to one of them."
+
+I did not fully understand until the week of my high school entrance exams. I was drowning in stress, unable to think clearly, my mind a storm of worry. Sora, then only ten years old, silently handed me his notebook, open to a page that read: "The hill behind the temple, just before sunset — gentle, like a held breath."
+
+I went there. I sat on the cool grass as the sky turned orange. And for the first time in weeks, the noise in my head stopped. In that borrowed silence, my thoughts finally settled, and I knew I would be all right.
+
+I passed the exam.
+
+Sora is grown up now, but he still keeps his notebook. He says silence is the only thing in the world that becomes more valuable the rarer it gets.
+
+I have started a notebook of my own.`,
+  },
+  {
+    id: 240, level: 3,
+    title: "The Wrong Train",
+    emoji: "🚆",
+    genre: "物語",
+    words: 315,
+    desc: "乗り間違えた電車が思いがけない出会いを生む、心温まる物語。",
+    text: `On the worst day of my year, I got on the wrong train.
+
+I had just failed an important interview, the rain had soaked my only good jacket, and in my distraction I boarded a train heading in completely the wrong direction. By the time I noticed, we were deep in the countryside, far from any place I knew, and the next return train would not come for an hour.
+
+I got off at a tiny station surrounded by rice fields. There was nothing there but a single old bench and a vending machine. I sat down, cold and miserable, and nearly cried.
+
+An elderly man was already sitting on the bench, feeding bread to the sparrows. He glanced at my wet jacket and unhappy face.
+
+"Bad day?" he asked.
+
+I do not usually talk to strangers, but something about him made it easy. I told him everything — the failed interview, the rain, the wrong train. He listened without interrupting.
+
+When I finished, he nodded slowly. "I came to this station fifty years ago, also by accident, also on a terrible day. I had just lost my job. I sat on this exact bench, feeling that my life was over."
+
+"What happened?" I asked.
+
+"A farmer offered me work for a week. The week became a year. The year became my whole life. I married his daughter. I have been happy here ever since." He smiled and tossed another crumb to the birds. "The train I meant to catch would have taken me back to my old life. This wrong train gave me a new one."
+
+We sat in comfortable silence until my return train arrived.
+
+I never saw him again. But I think about him often, especially on bad days.
+
+Sometimes the wrong train, it turns out, is simply a train going somewhere you did not yet know you needed to go.`,
+  },
+  {
+    id: 241, level: 3,
+    title: "The Memory Keeper",
+    emoji: "📷",
+    genre: "物語",
+    words: 325,
+    desc: "認知症の祖母のために写真を撮り続ける少女の、家族の絆の物語。",
+    text: `My grandmother began to forget things slowly, and then quickly. The doctors had a name for it, but to me it simply felt as if she were disappearing while still sitting in her chair.
+
+She forgot what she had eaten for lunch. Then she forgot my cousins' names. The hardest day was when she looked at my mother — her own daughter — with the polite, distant smile you give a stranger.
+
+I was fourteen, and I felt helpless. I could not cure her. I could not stop time. So I did the only thing I could think of: I started taking photographs.
+
+Every weekend, I photographed the things she still loved. Her hands kneading bread. The garden she had planted decades ago. Her face when she laughed at an old song on the radio. I printed each photo and wrote a sentence underneath, then placed them in a large album.
+
+When she became confused or frightened — which happened more and more — I would sit beside her and open the album. We would look through it together, slowly.
+
+"Who made this beautiful garden?" I would ask.
+
+"I did," she would say, sometimes uncertainly. But as she looked at the photographs, something would settle in her eyes. The pictures could not give her back her memory, but they gave her back herself, just for a few minutes at a time.
+
+One afternoon, near the end, she turned a page and saw a photo of herself holding me as a baby. She looked at it for a long moment. Then she looked at me — really looked at me — and said my name. It was the first time she had said it in months.
+
+She forgot it again within the hour. But I will never forget that she remembered.
+
+My grandmother is gone now. But the album remains, and I understand at last what I had truly been doing.
+
+I was not keeping photographs. I was keeping her.`,
+  },
+  {
+    id: 242, level: 3,
+    title: "The Last Customer",
+    emoji: "🍜",
+    genre: "物語",
+    words: 320,
+    desc: "閉店する食堂の最後の夜に起きる、人情味あふれる物語。",
+    text: `The little restaurant on the corner was closing after forty years. Mr. and Mrs. Goto, who had run it together since they were young, were finally retiring. On the last evening, they planned to serve until midnight, then lock the door for good.
+
+I went that night because my family had eaten there for as long as I could remember. The small room was packed with people who felt the same way — neighbors, old friends, families who had celebrated birthdays at those worn wooden tables.
+
+One by one, throughout the evening, the customers said their goodbyes. Many cried. Mrs. Goto, who had served thousands of bowls of ramen with the same gentle smile, hugged each one.
+
+By eleven thirty, the restaurant had emptied. The Gotos began to clean up, tired but at peace. Then, just before midnight, the door slid open one last time.
+
+A young man entered, soaked from the rain, carrying a heavy backpack. He was a stranger — clearly not a regular. He sat down quietly and ordered a bowl of ramen.
+
+As Mrs. Goto prepared it, the young man explained. Twenty years ago, when he was a small boy, his family had been poor and hungry. One winter night, Mr. Goto had given them a free meal and told them to pay whenever they could.
+
+"They never could pay," the young man said. "We moved away soon after. But I never forgot. I became a chef because of that bowl of ramen. I drove four hours tonight, hoping I was not too late."
+
+He placed money on the table — far more than the meal cost. "This is twenty years late," he said. "Thank you."
+
+Mr. Goto, who rarely showed emotion, turned away to hide his face.
+
+The last bowl of ramen, served to the last customer, turned out to be a debt repaid across twenty years — and the perfect ending to forty.`,
+  },
+  {
+    id: 243, level: 3,
+    title: "The Girl Who Talked to Trees",
+    emoji: "🌳",
+    genre: "物語",
+    words: 315,
+    desc: "木に話しかける転校生と、その理由を知って変わるクラスの物語。",
+    text: `When Mei transferred to our school, the other students quickly decided she was strange. Every lunchtime, instead of joining the groups in the cafeteria, she went to the old cherry tree in the schoolyard and appeared to talk to it.
+
+People laughed. Some called her names. I was not brave enough to laugh, but I was not brave enough to befriend her either, which is its own kind of cowardice.
+
+One day, while everyone else was inside, I happened to be near the tree and overheard her. She was not talking nonsense. She was speaking softly, telling the tree about her day — the test she had failed, the friends she missed from her old town, the way the new school felt cold and unwelcoming.
+
+Without thinking, I asked her why she talked to a tree.
+
+She was not embarrassed. "My grandmother taught me," she said. "She said trees are good listeners because they have seen so much and judge so little. When I moved here, I didn't know anyone. But this tree was already here, waiting. So it became my first friend."
+
+She paused, then added quietly, "It is easier to talk to a tree than to people who have already decided you are weird."
+
+Those words stayed with me. I realized that while we had been laughing at the girl who talked to trees, the real strangeness was a whole school of students who had decided not to talk to a lonely newcomer at all.
+
+The next day, I brought my lunch to the cherry tree and sat down beside her. We talked — human to human this time. Slowly, others joined us, curious. By spring, when the tree bloomed, a small group of us ate there every day.
+
+Mei still talks to the tree sometimes. But she does not need it as much anymore.
+
+Now she has us — and the tree, I like to think, is glad.`,
+  },
+  {
+    id: 244, level: 3,
+    title: "The Inventor of Nothing",
+    emoji: "💡",
+    genre: "物語",
+    words: 320,
+    desc: "失敗ばかりの発明少年が、本当の発明を見つける物語。",
+    text: `My classmate Hayato wanted to be an inventor. The problem was that every single one of his inventions failed.
+
+He invented an umbrella with a built-in fan to cool you in summer — but the fan blew the rain into your face. He invented shoes with tiny wheels for faster walking — and broke his arm the first day. He invented an alarm clock that sprayed water to wake heavy sleepers — and ruined his own homework. The class called him "the inventor of nothing," and even teachers struggled not to smile at his disasters.
+
+But Hayato never gave up. After each failure, he simply wrote careful notes about what had gone wrong and started again. While the rest of us feared making mistakes, Hayato collected them like treasures.
+
+In our final year, the school held a science fair. Everyone expected Hayato to present another ridiculous failure. Instead, he stood beside a simple poster titled "100 Failed Inventions and What Each One Taught Me."
+
+He had not built a working machine. He had done something stranger. He had documented every failure of the past three years, explaining the scientific principle each disaster had revealed. The umbrella fan taught him about air pressure. The wheeled shoes taught him about balance and friction. The water alarm taught him about timing and electricity.
+
+The judges were astonished. One of them, a university professor, said it was the most genuinely scientific project he had seen in years. "Most students hide their failures," he said. "This young man studied his. That is exactly how real science works."
+
+Hayato won first prize.
+
+Afterward, I asked him if he was disappointed that none of his inventions had ever actually worked.
+
+He grinned. "But one did," he said. "I invented a way to not be afraid of failing. That was the only invention I really needed."
+
+He is studying engineering at university now. I have no doubt he will fail spectacularly — and learn brilliantly — for the rest of his life.`,
+  },
+  {
+    id: 245, level: 3,
+    title: "The Umbrella Sharing Box",
+    emoji: "☂️",
+    genre: "物語",
+    words: 315,
+    desc: "駅に置かれた傘の貸し出し箱をめぐる、信頼についての物語。",
+    text: `Outside our town's train station, someone placed a wooden box full of umbrellas. A handwritten sign read: "Free umbrellas. Take one when it rains. Return it when you can. Trust makes this work."
+
+When the box first appeared, most adults shook their heads. "They will all be stolen within a week," they said. "People cannot be trusted with free things."
+
+For the first month, it seemed they were right. The umbrellas disappeared one by one, and few came back. The box stood nearly empty. People nodded knowingly: human selfishness had won, exactly as expected.
+
+But the person who had built the box — an old man who ran the flower shop nearby — quietly kept refilling it. Whenever it emptied, he added more umbrellas the next morning, saying nothing.
+
+Something slowly changed. Perhaps people felt guilty watching him refill the box again and again. Perhaps trust, when offered patiently enough, becomes contagious. Umbrellas began returning. Then strangers started donating their own old umbrellas to the box. Within six months, the box was always full — sometimes overflowing.
+
+I asked the old man whether he had been angry during those first weeks, when his umbrellas kept vanishing.
+
+"No," he said, watering his flowers. "People are not bad. They are just waiting to see if anyone really means it. Most kindness gives up too early. So they assume this kindness will give up too. You have to outlast their doubt."
+
+His words struck me deeply. The box had not succeeded because people suddenly became honest. It had succeeded because one stubborn old man refused to stop trusting them, even when they gave him every reason to.
+
+The box is still there today. Tourists photograph it. A newspaper wrote about it. But the old man just keeps watering his flowers, refilling it when needed, as if it were the most ordinary thing in the world.
+
+To him, I think, it is.`,
+  },
+  {
+    id: 246, level: 3,
+    title: "The Translator",
+    emoji: "🗣️",
+    genre: "物語",
+    words: 320,
+    desc: "耳の聞こえない祖父と世界をつなぐ少年の、誇りの物語。",
+    text: `My grandfather is deaf. He has been since birth, and he communicates through sign language. Because I grew up visiting him often, I learned to sign before I could properly write, and so, without quite meaning to, I became his translator.
+
+For years, I was embarrassed by this role. When we went out together, people would stare as my hands flew through the air. Waiters would speak to me instead of to him, as if he were not there. Children would point. I loved my grandfather deeply, but a small, shameful part of me sometimes wished our family were ordinary.
+
+That changed the summer I turned fifteen.
+
+My grandfather, who had been a carpenter all his life, was invited to give a talk at a woodworking school about traditional Japanese joinery — the art of connecting wood without nails. He was a master, but he could not speak. So I stood beside him and translated his signs into words for the audience.
+
+As he signed, his weathered hands moving with the same precision he brought to his craft, I spoke his thoughts aloud. He described how each piece of wood has a direction, a grain, a personality, and how the carpenter's job is not to force the wood but to listen to it. The room was completely silent, every person leaning forward.
+
+When he finished, the audience rose to their feet. A famous craftsman in the front row had tears in his eyes.
+
+Afterward, the man approached us. He looked directly at my grandfather — not at me — and signed, clumsily but sincerely, "Thank you." He had learned those few signs that very afternoon, just to honor him.
+
+On the train home, my grandfather signed to me: "Today, you did not just translate my words. You gave me a voice."
+
+I have never been embarrassed since.
+
+I am studying to become a professional sign language interpreter now. My grandfather, it turned out, did not need my pity.
+
+He needed my hands. And I needed his.`,
+  },
+  {
+    id: 247, level: 3,
+    title: "The Forgotten Password",
+    emoji: "🔑",
+    genre: "物語",
+    words: 315,
+    desc: "亡き父のパソコンのパスワードを解く家族の、愛の物語。",
+    text: `After my father died, we found that his old laptop was locked with a password none of us knew. He had been a quiet man who rarely spoke about himself, and we believed the computer might contain photographs, letters, or memories we had never seen.
+
+For weeks, we tried everything. Birthdays. Anniversaries. The names of pets. Our mother's name spelled forwards and backwards. The screen rejected each attempt with the same cold message: "Incorrect password."
+
+My younger sister suggested we give up. "Maybe he wanted it private," she said. But our mother could not let go. Something in her needed to know what her husband had kept inside that silent machine.
+
+One evening, my mother sat staring at the locked screen, exhausted. Quietly, almost to herself, she said, "Your father always said the same thing whenever any of us was sad. Do you remember? He'd say, 'Tomorrow is also a good day.'"
+
+We all fell silent. It had been his favorite phrase — gentle, patient, hopeful. He had said it a thousand times.
+
+My sister leaned forward slowly and typed it in, all one word, in English: "tomorrowisalsoagoodday."
+
+The screen unlocked.
+
+Inside, we did not find anything dramatic. There were no secrets, no hidden letters. What we found was a single folder, carefully organized, containing thousands of photographs of us — our childhoods, our birthdays, ordinary afternoons we had long forgotten. Each folder was labeled with a date and a small note. "Her first bicycle." "He lost a tooth today." "A normal, perfect Sunday."
+
+Our quiet father, who rarely spoke of his feelings, had been recording his love all along, in the only way he knew how.
+
+The password, we realized, had not been a lock at all. It had been his final message, waiting for us to remember the words he had given us for every sad day.
+
+And so, sitting together in the glow of his old screen, we did.`,
+  },
+  {
+    id: 248, level: 3,
+    title: "The Race Against the Bus",
+    emoji: "🏃",
+    genre: "物語",
+    words: 310,
+    desc: "毎朝バスと競走する少年の習慣が、思わぬ未来につながる物語。",
+    text: `Every morning, a boy named Taku raced the bus to school.
+
+It started as a joke. One day he had missed the bus and decided to run after it, just to see if he could catch it at the next stop. To his surprise, he nearly did. The next day, he tried again. Soon it became a daily habit — Taku, his backpack bouncing, sprinting along the sidewalk while the bus rumbled beside him on the road.
+
+The bus driver, an old man named Mr. Hara, found it hilarious. Every morning he would wave, and sometimes, at red lights, he would pretend to race, revving the engine playfully. The passengers began to cheer for Taku through the windows. Some mornings he won, reaching the school gate first; some mornings the bus did.
+
+What none of them realized was that Taku was becoming genuinely fast.
+
+A teacher who coached the track team noticed him one morning and invited him to join. Taku, who had never thought of himself as an athlete, agreed. Within a year, he was the fastest runner in the school. Within three years, he was competing at the national level.
+
+At his first major race, broadcast on television, the interviewer asked the young champion how he had started running.
+
+Taku grinned. "I used to race a bus to school every morning," he said. "I just never stopped."
+
+The next morning, Mr. Hara's bus was full of passengers who had seen the interview. When they passed the old race route, the whole bus looked out the window, half expecting to see the boy running. Of course, he was away at a training camp now.
+
+But Mr. Hara slowed down anyway, just for a moment, at the spot where a sprinter had been born from a missed bus and a stubborn refusal to give up.
+
+Then he smiled, and drove on.`,
+  },
+  {
+    id: 249, level: 3,
+    title: "The Museum at Midnight",
+    emoji: "🏛️",
+    genre: "物語",
+    words: 320,
+    desc: "夜の博物館に閉じ込められた少女が学ぶ、想像力の物語。",
+    text: `On a school trip to the city museum, I did something foolish: I lingered too long in front of a painting, lost in thought, and when I looked up, my class was gone. By the time I found my way to the entrance, the great doors were locked. I was trapped in the museum for the night.
+
+At first, I panicked. I banged on the doors and shouted, but the thick walls swallowed my voice. My phone had no signal inside the old stone building. There was nothing to do but wait until morning.
+
+So I wandered.
+
+In the dark, empty halls, the museum felt completely different from the crowded place I had visited that afternoon. Without the noise of other visitors, without the rush of the tour guide, I actually looked at things for the first time. I stood before a five-hundred-year-old suit of armor and imagined the person who had worn it. I studied a tiny ancient coin and wondered about every hand that had held it across the centuries.
+
+In one quiet room hung the portrait of a woman painted three hundred years ago. In the daytime, I had walked past it without a glance. Now, alone in the moonlight that fell through the high windows, I sat on the cold floor and looked at her face for nearly an hour. She seemed almost alive — as if she, too, had been waiting all these years for someone to simply stop and see her.
+
+When the staff found me in the morning, they were horrified and apologetic. They expected me to be traumatized.
+
+But I was strangely grateful.
+
+That afternoon, I had walked through the museum and seen nothing. That night, locked in and forced to slow down, I had truly seen everything.
+
+I go back often now — during the day, like a normal person. But I always try to look the way I learned to look that night: slowly, quietly, as if the doors might lock behind me at any moment.`,
   }
 );
