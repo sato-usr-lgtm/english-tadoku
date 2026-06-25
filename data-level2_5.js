@@ -7,7 +7,7 @@ BOOKS.push(
     title: "The Genius Dog",
     emoji: "🐕",
     genre: "物語",
-    words: 290,
+    words: 500,
     desc: "天才犬の正体が明かされるオチのある物語。",
     text: `My uncle has a dog named Taro, and he tells everyone that Taro is a genius.
 
@@ -28,6 +28,12 @@ I could not believe my eyes. A dog that does math! I took out my phone to record
 "Taro," I said carefully, "what is five plus three?"
 
 Taro barked. "Woof, woof, woof, woof, woof, woof, woof, woof." Eight barks! Perfect!
+
+That afternoon, I could not stop testing Taro. I tried him in different rooms, at different times, with my eyes closed so I could not give him any signals. "What is six minus two?" Four barks. "What is three plus three?" Six barks. He was never wrong, not even once. I began to imagine the headlines: "Math Dog Amazes the Nation." I pictured Taro on television, wearing tiny glasses, answering questions from famous scientists while the whole country watched in wonder.
+
+I called my cousin and held the phone close to Taro. "Ask him anything!" I said. My cousin asked, "What is seven plus one?" Taro barked eight times, perfectly. My cousin shouted so loudly that I had to move the phone away from my ear. "He's a real genius! You're going to be famous! You'll be rich!"
+
+Soon my uncle's neighbor came over to watch, bringing her grandchildren. They sat in a circle around Taro, asking him math questions and gasping at every correct answer. Taro loved the attention. He sat up tall and serious, like a true professor giving a lecture.
 
 I was ready to call the newspaper. A famous dog! A genius! My uncle would be rich!
 
@@ -54,7 +60,7 @@ Then Taro jumped up, took the rest of the sandwich, and ran away.
     title: "The Perfect Excuse",
     emoji: "📝",
     genre: "物語",
-    words: 300,
+    words: 505,
     desc: "宿題を忘れた言い訳が裏目に出る話。",
     text: `Daiki forgot his homework. Again. This was the third time this month, and he knew his teacher, Mr. Mori, was getting angry.
 
@@ -64,7 +70,11 @@ By the time he reached the classroom, he had it ready.
 
 "Mr. Mori," Daiki said seriously, "I am very sorry. Last night, I finished all my homework. It was beautiful. But then, on my way to the post box to mail a letter for my grandmother, a strong wind came. My homework flew out of my bag! It went up into the sky, over the river, and landed on a boat. The boat sailed away. I chased it, but it was too fast."
 
-The classroom was silent. Mr. Mori looked at Daiki for a long moment.
+The classroom was silent. A few students stared at Daiki with their mouths open. Others bit their lips, trying hard not to laugh. Daiki's best friend leaned over and whispered, "That is the greatest excuse I have ever heard," with deep respect in his voice. Daiki kept his face sad and serious, like a person who had truly lost something precious. Inside, though, he felt proud. He had practiced the story three times on the train that morning, adding little details — the color of the boat, the direction of the wind, the small cry he gave as his homework sailed out to sea. Surely no teacher in the world could be angry at such a beautiful, tragic tale.
+
+Mr. Mori did not answer right away. He walked slowly to the window and gazed up at the sky, as if searching for the flying homework among the clouds. The whole class held its breath. A few students secretly hoped Daiki would get away with it, so they could try the same trick someday. One boy was already quietly inventing his own version, involving a hungry crow.
+
+Finally, Mr. Mori turned back. He looked at Daiki for a long, quiet moment, and a small smile appeared at the corner of his mouth.
 
 "That is a terrible story," Mr. Mori said.
 
@@ -89,7 +99,7 @@ It was the only time his "perfect excuse" gave him an A — and the last time he
     title: "The Vending Machine Mystery",
     emoji: "🥤",
     genre: "物語",
-    words: 295,
+    words: 505,
     desc: "毎日コーヒーをくれる自販機の謎を追う話。",
     text: `Every morning, the old vending machine near my school gave me a free can of coffee.
 
@@ -101,7 +111,13 @@ I began to think the machine liked me. "Good morning," I would say to it. "Coffe
 
 I told everyone about my magic machine. "It knows me," I said. "It gives me gifts."
 
-This continued for two weeks. I felt chosen. Lucky. Special.
+This continued for two weeks, and my belief grew stronger every day. I started arriving earlier just to greet the machine. I gave it a name — Coffee-kun — and patted its side like an old friend. "You always know what I need," I told it. Some mornings I bought nothing at all, but still thanked it before walking on.
+
+I told everyone who would listen. Some classmates came to watch, standing behind me as I pressed a random button and received my magic coffee. "See?" I said proudly, as the can dropped and my coins came back. They were amazed. A few of them tried their own machines at home, pressing buttons and waiting for free gifts that never came. "It only works for me," I explained. "The machine and I have a special bond."
+
+I began to feel that the universe had chosen me for something. Maybe I was lucky. Maybe I was special in a way I had never known before. I walked a little taller. I smiled at strangers. All because a vending machine, out of all the people in the whole city, had decided to give its gifts to me, and me alone.
+
+I felt chosen. Lucky. Special.
 
 Then, one morning, a repair man was standing next to the machine, opening it with a big key.
 
@@ -128,7 +144,7 @@ Honestly? I kind of miss being "special" to a broken machine.`,
     title: "Grandma's Secret Recipe",
     emoji: "🍜",
     genre: "物語",
-    words: 305,
+    words: 515,
     desc: "祖母の秘伝のレシピの正体が判明する話。",
     text: `My grandmother makes the best ramen in the world. People come from other towns to eat at her tiny shop. For fifty years, customers have asked the same question: "What is your secret?"
 
@@ -138,7 +154,13 @@ I always thought that was a sweet answer. But also, honestly, a little boring. L
 
 So this summer, I asked Grandma to teach me. She agreed.
 
-For one week, I watched her every move. I wrote everything in a notebook. The soup, the noodles, the timing — I recorded it all. But I could not find the secret. It looked like normal ramen cooking.
+For one week, I watched her every move. I arrived before the shop opened and stayed until the last bowl was served. I wrote everything in a notebook — the exact heat of the soup, the number of seconds she boiled the noodles, the order in which she added the toppings. I studied her hands, her timing, even the way she breathed while she worked.
+
+I made guesses, too. Maybe the secret was a rare spice? I checked every jar on her shelf. Just normal salt, pepper, and soy sauce. Maybe it was special water from a mountain spring? No — it came from the same tap as everyone else's. Maybe there was a secret ingredient she added when no one was looking? I watched her like a detective, never blinking, but she added nothing strange at all.
+
+By the end of the week, I was frustrated. I had pages and pages of notes, and yet the soup in my own pot at home never tasted like hers. It looked the same. It used the same ingredients. But something was missing — something I could not see, and could not write down.
+
+I simply could not find the secret. It looked like completely normal ramen cooking.
 
 On the last day, I finally asked directly. "Grandma, please. The real secret. Not 'love.' What is it?"
 
@@ -169,7 +191,7 @@ She just smiled and handed me the spoon.`,
     title: "The Brave Little Brother",
     emoji: "👻",
     genre: "物語",
-    words: 290,
+    words: 490,
     desc: "肝試しで弟が一番怖くなかった理由のオチ話。",
     text: `Last summer, my friends and I planned a test of courage. We would walk through the old, dark shrine forest at night, one by one, alone. Everyone was scared, but nobody wanted to admit it.
 
@@ -181,7 +203,11 @@ We laughed. "It's too scary for you, Sota. You'll cry."
 
 Finally, we agreed. But secretly, I planned to walk close behind him, to protect him.
 
-That night, the forest was terrifying. The trees made strange shapes. The wind sounded like whispers. My older friends went first, and even the bravest boy, Kenta, came running back with a white face. "Something touched me!" he shouted. (It was a spider web, but we did not tell him.)
+That night, the forest was truly terrifying. The old trees made strange, twisted shapes against the dark sky. The wind moved through the branches and sounded exactly like whispering voices. Somewhere far off, an owl cried, and we all jumped.
+
+One by one, my older friends walked into the darkness. One by one, they came running back. The first boy lasted only a minute before sprinting out, shaking. The second refused to go past the old stone lantern. Then even Kenta — the biggest, bravest boy in our group, who said he feared nothing — marched in proudly and came flying back out moments later with a white face. "Something touched me!" he shouted, almost crying. (It was only a spider web, but we did not tell him that.)
+
+By now, everyone was nervous, including me. My heart pounded, and I kept imagining ghosts behind every tree. I was secretly glad I had decided to walk close behind my little brother. I told myself it was to protect him — but honestly, I wanted his company just as much as he wanted mine.
 
 Then it was Sota's turn. My tiny eight-year-old brother walked into the dark forest alone. We waited, nervous. One minute. Two minutes. Five minutes.
 
@@ -210,7 +236,7 @@ Sota just never looked.`,
     title: "The Wrong Number",
     emoji: "📞",
     genre: "物語",
-    words: 300,
+    words: 510,
     desc: "間違い電話から生まれた予想外の友情の話。",
     text: `One evening, my phone rang. The number was unknown, but I answered.
 
@@ -236,7 +262,11 @@ And somehow, we started talking. She told me she was making fish and rice. She t
 
 We talked for twenty minutes.
 
-After that, she called every few days — "by accident," she said, but I think we both knew. We became phone friends. I told her about school; she told me about her garden and gave me advice. She was wise and funny.
+After that, she called every few days — "by accident," she always said, though I think we both knew the truth. We became real phone friends. I told her about school, my tests, and the small troubles of my days. She told me about her garden, her flowers, and the vegetables she was growing. She gave me advice that was always wise and often very funny.
+
+Once, when I failed an important test and felt terrible, I told her about it. She did not scold me or tell me to try harder. Instead, she said, "When my tomatoes fail one summer, I do not shout at them. I just plant again next year, a little wiser. People are the same." Somehow, that made me feel better than anything my own family had said.
+
+She told me stories from long ago — about her childhood, her late husband, and the songs they used to sing together. I started looking forward to her calls more than to messages from my own friends. She never could remember which buttons to press, so every call was still an "accident." But those accidents became the warmest part of my week.
 
 This continued for three months. I never met her, but she felt like my own grandmother.
 
